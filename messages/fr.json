@@ -1,0 +1,167 @@
+{
+  "navbar": {
+  "home": "Accueil",
+  "project": "Projets",
+  "test": "Tests",
+  "education": "Formation",
+  "about": "À propos",
+  "contact": "Contact"
+},
+  "footer": {
+    "text": "© 2024 M YALCIN - Développeur Full-Stack. Conçu avec qualité et clarté."
+  },
+  "contact": {
+    "title": "📬 Entrons en Contact",
+    "text": "Si vous souhaitez discuter d’un poste junior full‑stack, QA / testing ou hybride — ou simplement parler de projets, de qualité ou d’apprentissage — n’hésitez pas à me contacter.",
+    "email": "Email",
+    "linkedln": "LinkedIn",
+    "github": "GitHub",
+    "form": {
+      "title": "📝 Envoyez‑moi un Message",
+      "name": "Votre Nom",
+      "mail": "Votre Email",
+      "subject": "Sujet",
+      "message": "Message",
+      "sending": "Envoi en cours",
+      "send": "Envoyer"
+    }
+  },
+  "home": {
+    "hero": {
+      "greeting": "Bonjour, je m'appelle",
+      "name": "Musa YALCIN",
+      "title": "Je conçois et teste des solutions digitales.",
+      "text": "<bold>Développeur  full-stack  </bold>avec une <bold>approche QA </bold>et une formation en<bold> mathématiques. </bold>Je me spécialise dans la création d’applications robustes et bien testées, où le code propre rencontre une expérience utilisateur fluide. Chaque ligne de code est soutenue par des tests rigoureux.",
+      "btn1": "Explorez Mes Projets",
+      "btn2": "Me contacter"
+    },
+    "whatIDo": {
+      "title": "Ce que je fais",
+      "build": {
+        "title": "⚡ Développer",
+        "description": "Je développe des applications propres et évolutives en utilisant des frameworks modernes et les meilleures pratiques. De l’idée au déploiement, chaque fonctionnalité est conçue avec précision."
+      },
+      "test": {
+        "title": "\uD83D\uDD0D Tester",
+        "description": "L’assurance qualité n’est pas une étape finale — elle fait partie intégrante de mon processus de développement. J’assure la fiabilité grâce à des stratégies de tests complètes."
+      },
+      "optimize": {
+        "title": "\uD83D\uDCCA Optimiser",
+        "description": "Grâce à ma formation en mathématiques, j’aborde les problèmes de manière analytique, en optimisant les performances et en créant des solutions efficaces et maintenables."
+      }
+    },
+    "approach": {
+      "title": "Mon approche",
+      "coverage": {
+          "number": "100 %",
+          "label": "Objectif de couverture de tests"
+        },
+      "experience": {
+          "number": "3+",
+          "label": "Années d’expérience"
+        },
+      "problems": {
+          "number": "∞",
+          "label": "Problèmes résolus"
+        },
+      "description": "Je crois qu’un excellent logiciel naît à l’intersection d’une ingénierie solide, de tests rigoureux et d’une conception centrée utilisateur. Ma formation mathématique m’apporte une perspective unique sur la résolution de problèmes, me permettant d’aborder des défis complexes avec une précision analytique."
+    },
+    "contact": {
+      "title": "Restons en contact",
+      "description": "Je suis toujours ouvert à discuter de nouveaux projets, d’idées créatives ou d’opportunités de collaboration. Construisons quelque chose d’exceptionnel ensemble.",
+      "cta": "Dire bonjour"
+    }
+  },
+
+  "skills": {
+    "title": "💻 Stack technique",
+    "frontend": "Frontend",
+    "fr_skills": [
+      "React",
+      "Next.js",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "MUI (Material UI)"
+    ],
+    "backend": "Backend",
+    "bc_skills": ["Java", "PHP", "Node.js", "API Rest"],
+    "database": "Base de données",
+    "db_skills": ["MySQL", "MongoDB"],
+    "testing": "Tests",
+    "test_skills": ["Cucumber", "Selenium", "Robot Framework", "TestNG", "JUnit", "Postman"],
+    "methodology": "Méthodologies & Outils",
+    "m_skills": [
+          "Agile Scrum",
+          "Kanban",
+          "Trello"
+        ]
+  },
+  "seo": {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Musa Yalçın",
+    "jobTitle": "Développeur Web & Mobile Full-Stack, QA Engineer, Mathématicien",
+    "linkedin": "https://www.linkedin.com/in/musayalcin",
+    "worksFor": {
+      "@type": "Organization",
+      "name": "Développeur Logiciel Indépendant"
+    },
+    "url": "https://portfolio.musayalcin.dev",
+    "sameAs": [
+      "https://www.linkedin.com/in/musayalcin",
+      "https://www.malt.fr/profile/musayalcin"
+    ],
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Martigues",
+      "addressRegion": "Provence-Alpes-Côte d’Azur",
+      "addressCountry": "FR"
+    },
+    "title": {
+      "home": "Développeur Web & Mobile Full-Stack",
+      "qa": "Ingénieur Assurance Qualité (QA)",
+      "about": "Développeur avec une approche mathématique"
+    },
+    "description": {
+      "home": "Je développe des applications web et mobiles modernes avec Next.js, React, Node.js, PHP et Java, avec une expertise solide en assurance qualité.",
+      "qa": "Expérimenté en tests fonctionnels et automatisés, garantissant des livraisons fiables grâce à Cucumber et aux scénarios manuels.",
+      "about": "Grâce à mon parcours pédagogique, j’explique clairement les concepts techniques et conçois des architectures solides basées sur la logique mathématique."
+    },
+    "skills": {
+      "general": [
+        "Développement web full-stack",
+        "Développement d’applications mobiles",
+        "Expertise en Next.js et React",
+        "Développement backend avec Node.js",
+        "Développement PHP et Laravel",
+        "Développement backend en Java",
+        "Conception et intégration d’API",
+        "Modélisation et optimisation de bases de données",
+        "Développement de composants orientés UI/UX",
+        "Interfaces responsives et accessibles"
+      ],
+      "qa": [
+        "Tests fonctionnels",
+        "Tests automatisés",
+        "BDD avec Cucumber",
+        "Rédaction de scénarios de test",
+        "Analyse et rapport de bugs",
+        "Processus d’assurance qualité"
+      ],
+      "devops": [
+        "Utilisation professionnelle de Git et GitHub",
+        "Concepts CI/CD",
+        "Configuration et gestion des environnements"
+      ],
+      "soft": [
+        "Résolution de problèmes mathématiques",
+        "Communication pédagogique",
+        "Pensée analytique",
+        "Travail en équipe",
+        "Documentation claire et structurée"
+      ]
+    }
+  }
+}
