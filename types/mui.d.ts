@@ -5,6 +5,7 @@ declare module '@mui/material/Paper' {
         glowCard: true;
         glowCard2: true;
         skillCard: true;
+        avaibilityCard: true;
 
     }
 }

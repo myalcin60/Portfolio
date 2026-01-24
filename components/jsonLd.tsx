@@ -3,10 +3,10 @@ import Script from 'next/script';
 import {useTranslations} from "next-intl";
 import {useEffect, useMemo} from "react";
 
-interface JsonLdProps {
-    pageKey: string;
-}
-export default function JsonLd({ pageKey }: JsonLdProps) {
+// interface JsonLdProps {
+//     pageKey: string;
+// }
+export default function JsonLd() {
     const seoMessages= useTranslations("seo")
     const t = useTranslations();
     const seo = t.raw('seo');
@@ -32,7 +32,7 @@ export default function JsonLd({ pageKey }: JsonLdProps) {
             description:seo.description,
             knowsAbout: skills
         };
-    }, [seoMessages, seo, pageKey]);
+    }, [seoMessages, seo]);
     useEffect(() => {
         const scriptData = document.getElementById('jsonld')
         if (scriptData) {

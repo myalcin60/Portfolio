@@ -18,7 +18,6 @@ export default function LocaleSwitcher(){
             router.refresh();
         }
     }
-
     return (
         <Box sx={{display:'flex', alignItems: 'center', border:'none'}} >
             <FormControl variant="standard"  sx={{ color: {xs:theme.palette.text.primary}}}>

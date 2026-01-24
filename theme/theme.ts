@@ -1,6 +1,5 @@
 import { createTheme } from "@mui/material/styles";
 import {IBM_Plex_Sans, IM_Fell_French_Canon} from 'next/font/google';
-import {maxWidth, palette} from "@mui/system";
 
 const ibmPlexSans = IBM_Plex_Sans({
     subsets: ['latin'],
@@ -25,8 +24,6 @@ export const CustomColors={
     text_red:"#AA3220",
     green:"#0A8023",
     purple:"#7a3f83",
-
-
 }
 
 export const lightTheme = createTheme({
@@ -34,7 +31,7 @@ export const lightTheme = createTheme({
         bg_nav:CustomColors.bg_light_secondary,
         main: CustomColors.bg_light,
         icon: CustomColors.bg_main,
-        toggleDrawer: CustomColors.bg_light,
+        toggleDrawer: CustomColors.green,
         text:CustomColors.text_red
     },
     palette: {
@@ -53,7 +50,6 @@ export const lightTheme = createTheme({
             primary: CustomColors.bg_main,
             secondary: CustomColors.text_red,
         },
-
     },
     typography: {
         fontFamily: `var(${ibmPlexSans.style.fontFamily}), sans-serif`,
@@ -192,6 +188,18 @@ export const lightTheme = createTheme({
                         }
                     },
                 },
+                {
+                    props:{variant: 'avaibilityCard'},
+                    style:{
+                        background: CustomColors.bg_light,
+                        color: CustomColors.bg_main,
+                        border: 15,
+                        padding: 15,
+                        margin: 15
+                    }
+
+                },
+
             ],
         },
     },
@@ -355,6 +363,18 @@ export const darkTheme = createTheme({
                         }
 
                     },
+
+                },
+                {
+                    props:{variant: 'avaibilityCard'},
+                    style:{
+                        background: CustomColors.bg_light,
+                        color: CustomColors.bg_main,
+                        border: 15,
+                        padding: 15,
+                        margin: 15
+                    }
+
                 },
             ],
         },

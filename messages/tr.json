@@ -11,8 +11,17 @@
     "text": "© 2024 M YALCIN - Full-Stack Geliştirici. Kalite ve sadelikle tasarlandı."
   },
   "contact": {
+    "availability": {
+      "title": "🕒 Müsaitlik",
+      "text": "Şu pozisyonlara açığım:",
+      "item1": "Junior Full-Stack Developer pozisyonları",
+      "item2": "QA / Yazılım Test Uzmanı pozisyonları",
+      "item3": "Matematik Ogretmenligi",
+      "description": "Kod kalitesine, test süreçlerine ve açık iletişime önem veren çalışma ortamlarıyla özellikle ilgileniyorum."
+    },
     "title": "📬 İletişime Geçelim",
     "text": "Junior full‑stack, QA / test veya hibrit bir rol hakkında konuşmak — ya da projeler, kalite veya öğrenme üzerine sohbet etmek istersen — benimle iletişime geçmekten çekinme.",
+    "slogan": "🚀 İyi yazılım, iyi iletişimle başlar. Haydi birlikte anlamlı — ve test edilmiş — bir şeyler inşa edelim.",
     "email": "E‑posta",
     "linkedln": "LinkedIn",
     "github": "GitHub",

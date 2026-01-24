@@ -9,7 +9,6 @@ export default function ContactForm() {
     const contact = useTranslations();
     const message = contact.raw("contact.form");
     const t = useTranslations("contact.form");
-
     const [state, formAction, isPending] = useActionState(sendContactForm, {
         success: false,
         errors: {}
