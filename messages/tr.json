@@ -1,12 +1,12 @@
 {
   "navbar": {
-  "home": "Ana Sayfa",
-  "project": "Projeler",
-  "test": "Testler",
-  "education": "Eğitim",
-  "about": "Hakkımda",
-  "contact": "İletişim"
-},
+    "home": "Ana Sayfa",
+    "project": "Projeler",
+    "test": "Testler",
+    "education": "Eğitim",
+    "about": "Hakkımda",
+    "contact": "İletişim"
+  },
   "footer": {
     "text": "© 2024 M YALCIN - Full-Stack Geliştirici. Kalite ve sadelikle tasarlandı."
   },
@@ -23,7 +23,33 @@
       "subject": "Konu",
       "message": "Mesaj",
       "sending": "Gönderiliyor",
-      "send": "Gönder"
+      "send": "Gönder",
+      "success": "Mesajiniz basariyla gonderildi.",
+      "errors": {
+        "error": "Mail gonderilmedi",
+        "rateLimit": "Çok fazla istek yaptınız",
+        "name": {
+          "name": "Isim gerekli",
+          "short": "Isim cok kisa",
+          "long": "Isim cok uzun"
+        },
+        "mail": {
+          "mail": "E-mail gerekli",
+          "short": "E-mail gecersiz",
+          "long": "E-mail cok kisa"
+        },
+        "subject": {
+          "header": "Geçersiz karakter tespit edildi",
+          "subject": "Konu gerekli",
+          "short": "Konu cok kisa",
+          "long": "Konu cok uzun"
+        },
+        "message": {
+          "message": "Message gerekli",
+          "short": "Message cok kisa",
+          "long": "Message cok uzun (en fazla 500 karekter)"
+        }
+      }
     }
   },
   "home": {
@@ -53,16 +79,16 @@
     "approach": {
       "title": "Yaklaşımım",
       "coverage": {
-          "number": "%100",
-          "label": "Test Kapsamı Hedefi"
-        },
+        "number": "%100",
+        "label": "Test Kapsamı Hedefi"
+      },
       "experience": {
-          "number": "3+",
-          "label": "Yıl Deneyim"
-        },
+        "number": "3+",
+        "label": "Yıl Deneyim"
+      },
       "problems": {
-          "number": "∞",
-          "label": "Çözülen Problem"
+        "number": "∞",
+        "label": "Çözülen Problem"
       },
       "description": "Harika yazılımın; sağlam mühendislik, titiz test süreçleri ve kullanıcı odaklı tasarımın kesişiminde ortaya çıktığına inanırım. Matematik geçmişim, karmaşık problemleri analitik bir hassasiyetle ele almamı sağlar."
     },
@@ -85,11 +111,26 @@
       "MUI (Material UI)"
     ],
     "backend": "Backend",
-    "bc_skills": ["Java", "PHP", "Node.js", "REST API"],
+    "bc_skills": [
+      "Java",
+      "PHP",
+      "Node.js",
+      "REST API"
+    ],
     "database": "Veritabanı",
-    "db_skills": ["MySQL", "MongoDB"],
+    "db_skills": [
+      "MySQL",
+      "MongoDB"
+    ],
     "testing": "Testler",
-    "test_skills": ["Cucumber", "Selenium", "Robot Framework", "TestNG", "JUnit", "Postman"],
+    "test_skills": [
+      "Cucumber",
+      "Selenium",
+      "Robot Framework",
+      "TestNG",
+      "JUnit",
+      "Postman"
+    ],
     "methodology": "Metodolojiler & Araçlar",
     "m_skills": [
       "Agile Scrum",

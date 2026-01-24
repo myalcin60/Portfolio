@@ -23,7 +23,33 @@
       "subject": "Subject",
       "message": "Message",
       "sending": "Sending",
-      "send": "Send"
+      "send": "Send",
+      "success": "Your message has been successfully sent.",
+      "errors": {
+        "error": "Email could not be sent",
+        "rateLimit": "You have made too many requests",
+        "name": {
+          "name": "Name is required",
+          "short": "Name is too short",
+          "long": "Name is too long"
+        },
+        "mail": {
+          "mail": "Email is required",
+          "short": "Invalid email",
+          "long": "Email is too short"
+        },
+        "subject": {
+          "header": "Invalid character detected",
+          "subject": "Subject is required",
+          "short": "Subject is too short",
+          "long": "Subject is too long"
+        },
+        "message": {
+          "message": "Message is required",
+          "short": "Message is too short",
+          "long": "Message is too long (maximum 500 characters)"
+        }
+      }
     }
   },
   "home": {

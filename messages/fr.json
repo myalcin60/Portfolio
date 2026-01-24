@@ -23,10 +23,37 @@
       "subject": "Sujet",
       "message": "Message",
       "sending": "Envoi en cours",
-      "send": "Envoyer"
+      "send": "Envoyer",
+      "success": "Votre message a été envoyé avec succès.",
+      "errors": {
+        "error": "L’e‑mail n’a pas pu être envoyé",
+        "rateLimit": "Vous avez effectué trop de demandes",
+        "name": {
+          "name": "Le nom est requis",
+          "short": "Le nom est trop court",
+          "long": "Le nom est trop long"
+        },
+        "mail": {
+          "mail": "L’e‑mail est requis",
+          "short": "E‑mail invalide",
+          "long": "L’e‑mail est trop court"
+        },
+        "subject": {
+          "header": "Caractère invalide détecté",
+          "subject": "Le sujet est requis",
+          "short": "Le sujet est trop court",
+          "long": "Le sujet est trop long"
+        },
+        "message": {
+          "message": "Le message est requis",
+          "short": "Le message est trop court",
+          "long": "Le message est trop long (maximum 500 caractères)"
+        }
+      }
     }
   },
-  "home": {
+
+    "home": {
     "hero": {
       "greeting": "Bonjour, je m'appelle",
       "name": "Musa YALCIN",
