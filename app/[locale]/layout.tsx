@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import {GlobalProvider} from "@/context/globalContext";
 import Navbar from "@/components/navbar";
-import ThemeRegistry from "@/theme/themeRegistry";
+import ThemeRegistry from "@/components/theme/themeRegistry";
 import {routing} from "@/i18n/routing";
 import {hasLocale, NextIntlClientProvider} from "next-intl";
 import {notFound} from "next/dist/client/components/not-found";

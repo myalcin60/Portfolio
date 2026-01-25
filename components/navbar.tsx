@@ -1,5 +1,5 @@
 'use client'
-import ThemeButton from "@/theme/themeButton";
+import ThemeButton from "@/components/theme/themeButton";
 import {
     Box,
     AppBar,
@@ -98,7 +98,7 @@ export default function Navbar() {
                             <Box sx={{mr:1}}>
                                 {pages.map((page) => (
                                     <Button key={page.href} component={Link} href={page.href}
-                                    sx={{color:theme.navbar.text,  alignItems:'flex-end'}}>
+                                    sx={{color:theme.navbar.text,  alignItems:'flex-end', fontSize:18}}>
                                         {page.label}
                                     </Button>))}
                             </Box>

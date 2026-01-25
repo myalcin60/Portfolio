@@ -63,12 +63,11 @@
   },
   "home": {
     "hero": {
-      "greeting": "Merhaba, ben",
-      "name": "Musa YALCIN",
+      "greeting": "Full‑stack Geliştirici & QA Tester",
       "title": "Dijital çözümler geliştirir ve test ederim.",
-      "text": "<bold>QA </bold>bakış açısına ve <bold>matematik</bold> altyapısına sahip bir <bold>full-stack geliştiriciyim</bold>. Temiz kod ile kusursuz kullanıcı deneyimini bir araya getiren, sağlam ve iyi test edilmiş uygulamalar geliştirmeye odaklanırım. Yazdığım her satır, titiz test süreçleriyle desteklenir.",
-      "btn1": "Projelerimi Kesfedin",
-      "btn2": "İletişim"
+      "text": "<bold>QA odaklı</bold> ve <bold>matematik</bold> temelli bir <bold>full‑stack geliştirici</bold> olarak, temiz kod ile kusursuz kullanıcı deneyimini birleştiren sağlam ve iyi test edilmiş uygulamalar geliştiriyorum.",
+      "btn1": "Projelerimi Keşfet",
+      "btn2": "İletişime Geç"
     },
     "whatIDo": {
       "title": "⚡ Ne Yapıyorum",
@@ -106,6 +105,59 @@
       "description": "Yeni projeler, yaratıcı fikirler veya iş birlikleri hakkında konuşmaya her zaman açığım. Gelin birlikte harika bir şeyler üretelim.",
       "cta": "Merhaba De"
     }
+  },
+  "project": {
+    "title": "Projeler",
+    "text": "Aşağıda eğitimim, stajlarım ve kişisel gelişim sürecimde tamamladığım projelerden bir seçki yer almaktadır. Bu projeler, gerçek kullanım senaryolarına, temiz bir yapıya ve yazılım kalitesine odaklanan güçlü QA / Test geçmişine sahip bir Full‑Stack Geliştirici profilimi yansıtmaktadır.",
+    "projects": [
+      {
+        "title": "1. Edulien – Eğitim Yönetim Platformu",
+        "item1": "Kişisel Proje – DWWM Final Projesi",
+        "status": "✅ Tamamlandı",
+        "titleDes": "Açıklama",
+        "description": "Rol tabanlı erişim kontrolü ile sınıf yönetimi için tasarlanmış bir platform.",
+        "keyFuture": [
+          "Öğretmenler sınıf oluşturabilir ve yönetebilir",
+          "Rol tabanlı erişim (öğretmen / öğrenci)",
+          "E-mail ile öğrenci ekleme",
+          "Ödev takibi"
+        ],
+        "tech": "Teknoloji Seti",
+        "techStack": [
+          "PHP",
+          "HTML",
+          "CSS",
+          "Bootstrap",
+          "MySQL"
+        ],
+        "deployment": "Dağıtım",
+        "platform": "--> Platform: InfinityFree"
+      },
+      {
+        "title": "1. Edulien – Eğitim Yönetim Platformu",
+        "item1": "Kişisel Proje – DWWM Final Projesi",
+        "status": "✅ Tamamlandı",
+        "titleDes": "Açıklama",
+        "description": "Rol tabanlı erişim kontrolü ile sınıf yönetimi için tasarlanmış bir platform.",
+        "key": "Öne Çıkan Özellikler",
+        "keyFuture": [
+          "Öğretmenler sınıf oluşturabilir ve yönetebilir",
+          "Rol tabanlı erişim (öğretmen / öğrenci)",
+          "Öğrenciler e‑posta ile eklenebilir",
+          "Ödev takibi"
+        ],
+        "tech": "Teknoloji Seti",
+        "techStack": [
+          "PHP",
+          "HTML",
+          "CSS",
+          "Bootstrap",
+          "MySQL"
+        ],
+        "deployment": "Dağıtım",
+        "platform": "--> Platform: InfinityFree"
+      }
+    ]
   },
   "skills": {
     "title": "\uD83D\uDCBB Teknik Yetkinlikler",

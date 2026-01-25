@@ -19,31 +19,28 @@ export default function Home() {
                 <Box sx={{
                     display: {xs:"column", md:"flex"},
                     justifyContent: "space-between",
-                    mt: 10
+                    mt: 10,
+                    pl:{xs:4, md:1},
+                    pr:{xs:4, md:1}
+
                 }}>
                     <JsonLd/>
                     {/*<JsonLd pageKey={'home'}/>*/}
                     <Box >
-                        <Typography sx={{
-                            fontWeight: 300,
-                            color: theme.palette.text.primary,
-                        }}>
-                            {message('hero.greeting')}
-                        </Typography>
-                        <Typography variant={'h1'} sx={{mt: 3}}>
-                            {message('hero.name')}
+                        <Typography variant={'h1'} sx={{mt: 3, maxWidth:{sm:"auto", md:"600px"}}}>
+                             {message('hero.greeting')}
                         </Typography>
                         <Typography variant={'h2'}
                                     sx={{mt: 3, mb: 3}}>
                             {message('hero.title')}</Typography>
-                        <Typography sx={{color: theme.palette.text.primary,}}>
+                        <Typography sx={{color: theme.palette.text.primary, fontWeight:400}}>
                             {message.rich("hero.text", {
                                 bold: (chunks) => (
                                     <Typography
                                         component="span"
                                         sx={{
                                             color: theme.palette.text.secondary,
-                                            fontWeight: 600,
+                                            fontWeight: 400,
                                         }}>
                                         {chunks}
                                     </Typography>
@@ -51,7 +48,7 @@ export default function Home() {
                             })}
                         </Typography>
 
-                        <Box sx={{display: 'flex', gap: 2, mt: 5}}>
+                        <Box sx={{display: 'flex', gap: 2, mt: 15}}>
                             <Button variant={'btn_1'} href={'/project'}>{message('hero.btn1')}</Button>
                             <Button variant={'btn_2'} href={'/action.tsx'}>{message('hero.btn2')}</Button>
                         </Box>
@@ -74,7 +71,7 @@ export default function Home() {
                         <Paper variant="glowCard">
                             <Typography variant={'h3'} sx={{mt: 1, mb: 3}}>
                                 {message('whatIDo.build.title')}
-                            </Typography>
+                            </Typography >
                             {message('whatIDo.build.description')}
                         </Paper>
                         <Paper variant="glowCard">

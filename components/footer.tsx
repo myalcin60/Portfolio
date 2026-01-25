@@ -11,7 +11,7 @@ export default function Footer() {
     const theme = useTheme()
     const message = useTranslations('footer')
     return (
-        <Box sx={{
+        <Box sx={{mt:10,
             display: {xs: 'block', md: 'flex'},
             justifyContent: 'space-around',
             alignItems: 'center',

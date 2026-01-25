@@ -18,9 +18,9 @@ export default function Project() {
                 {/*hero*/}
                 <Box sx={{
                     display: {xs: 'column', md: 'flex'},
-                    mt: 10, gap: 5}}>
+                    mt: 8, gap: 5}}>
                     <Box sx={{width: {xs: "100%", md: '50%', justifyContent: "center"},mt:10}}>
-                        <Typography variant="h2" sx={{mb: 5}}>
+                        <Typography variant="h1" sx={{mb: 5}}>
                             {message.title}
                         </Typography>
                         <Typography variant="body1">

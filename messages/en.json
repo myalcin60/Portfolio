@@ -63,13 +63,13 @@
   },
   "home": {
     "hero": {
-      "greeting": "Hi, my name is",
-      "name": "Musa YALCIN",
+      "greeting": "Full‑stack Developer & QA Engineer",
       "title": "I build & test digital solutions.",
-      "text": " <bold>Full-stack developer</bold>  with a <bold>QA mindset </bold>and <bold>mathematics </bold>background. I specialize in creating robust, well-tested applications where clean code meets seamless user experience. Every line I write is backed by rigorous testing.",
+      "text": "<bold>Full‑stack developer</bold> with a <bold>QA mindset</bold> and <bold>mathematics</bold> background. I create robust, well‑tested applications where clean code meets seamless user experience.",
       "btn1": "Explore My Projects",
       "btn2": "Get In Touch"
     },
+
     "whatIDo": {
       "title": "What I Do",
       "build": {
@@ -107,7 +107,57 @@
       "cta": "Say Hello"
     }
   },
-
+  "project": {
+    "title": "Projets",
+    "text": "Vous trouverez ci-dessous une sélection de projets réalisés durant ma formation, mes stages et mon développement personnel. Ces projets reflètent mon profil de Développeur Full‑Stack avec une forte expertise en QA / Testing, axé sur des cas d’usage réels, une structure propre et la qualité logicielle.",
+    "projects": [
+      { "title": "1. Edulien – Plateforme de Gestion Éducative",
+        "item1": "Projet Personnel – Projet Final DWWM",
+        "status": "✅ Terminé",
+        "titleDes": "Description",
+        "description": "Plateforme conçue pour la gestion de classes avec un système de contrôle d’accès basé sur les rôles.",
+        "keyFuture": [
+          "Création et gestion de classes par les enseignants",
+          "Accès basé sur les rôles (enseignant / étudiant)",
+          "Ajout d’étudiants par email",
+          "Suivi des devoirs"
+        ],
+        "tech": "Tech Stack",
+        "techStack": [
+          "PHP",
+          "HTML",
+          "CSS",
+          "Bootstrap",
+          "MySQL"
+        ],
+        "deployment": "Déploiement",
+        "platform": "--> Plateforme : InfinityFree"
+      },
+      { "title": "1. Edulien – Plateforme de Gestion Éducative",
+        "item1": "Projet Personnel – Projet Final DWWM",
+        "status": "✅ Terminé",
+        "titleDes": "Description",
+        "description": "Plateforme conçue pour la gestion de classes avec un système de contrôle d’accès basé sur les rôles.",
+        "key": "Key Future",
+        "keyFuture": [
+          "Création et gestion de classes par les enseignants",
+          "Accès basé sur les rôles (enseignant / étudiant)",
+          "Ajout d’étudiants par email",
+          "Suivi des devoirs"
+        ],
+        "tech": "Tech Stack",
+        "techStack": [
+          "PHP",
+          "HTML",
+          "CSS",
+          "Bootstrap",
+          "MySQL"
+        ],
+        "deployment": "Déploiement",
+        "platform": "--> Plateforme : InfinityFree"
+      }
+    ]
+  },
   "skills": {
     "title": "💻 Technical Stack",
     "frontend": "Frontend",

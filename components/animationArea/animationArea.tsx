@@ -10,7 +10,7 @@ const AnimationArea: React.FC = () => {
     return (
         <Box sx={{ position: "relative", height: "256px", mt: 10, mb: 6,
             width: '100%',
-            minWidth: '200px'}}>
+            minWidth: '180px'}}>
             {/* Floating Code Lines */}
             <Box sx={{ position: "absolute", inset: 0, overflow: "hidden" }}>
                 <FloatingCode

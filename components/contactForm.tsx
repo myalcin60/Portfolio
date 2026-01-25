@@ -15,11 +15,11 @@ export default function ContactForm() {
     });
 
     return (
-        <Paper variant="glowCard2">
+        <Paper variant="glowCard2" sx={{minWidth: 500, gap:5}}>
             <Typography variant="h2" sx={{ mb: 3 }}>
                 {message.title}
             </Typography>
-            <form action={formAction}>
+            <form action={formAction} >
                 <Box display="flex" flexDirection="column" gap={2}>
                     {/* Honeypot (bot tuzağı) */}
                     <input
