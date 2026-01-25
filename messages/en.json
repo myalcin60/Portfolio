@@ -1,0 +1,252 @@
+{
+  "navbar": {
+    "home": "Home",
+    "project": "Projects",
+    "test": "Testing",
+    "education": "Education",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "footer": {
+    "text": " © 2024 M YALCIN - Full-Stack Developer. Built with quality and clarity in mind."
+  },
+  "contact": {
+    "availability": {
+      "title": "\uD83D\uDD52 Availability",
+      "text": "I am currently open to:",
+      "item1": "Junior Full-Stack Developer roles",
+      "item2": "QA / Software Tester positions",
+      "item3" : "Hybrid Developer–QA roles",
+      "description": "I'm particularly interested in environments that value code quality, testing, and clear communication."
+    },
+    "title": "\uD83D\uDCEC Let's Get in Touch",
+    "text":"If you'd like to discuss a junior full-stack, QA / testing, or hybrid role — or simply talk about projects, quality, or learning — feel free to reach out.",
+    "slogan": "\uD83D\uDE80 Good software starts with good communication.\u2028Let's build — and test — something meaningful together.",
+    "email" : "Email",
+    "linkedln" : "Linkedln",
+    "github": "github",
+    "form": {
+      "title": "\uD83D\uDCDD Send Me a Message",
+      "name": "Your Name",
+      "mail": "Your Email",
+      "subject": "Subject",
+      "message": "Message",
+      "sending": "Sending",
+      "send": "Send",
+      "success": "Your message has been successfully sent.",
+      "errors": {
+        "error": "Email could not be sent",
+        "rateLimit": "You have made too many requests",
+        "name": {
+          "name": "Name is required",
+          "short": "Name is too short",
+          "long": "Name is too long"
+        },
+        "mail": {
+          "mail": "Email is required",
+          "short": "Invalid email",
+          "long": "Email is too short"
+        },
+        "subject": {
+          "header": "Invalid character detected",
+          "subject": "Subject is required",
+          "short": "Subject is too short",
+          "long": "Subject is too long"
+        },
+        "message": {
+          "message": "Message is required",
+          "short": "Message is too short",
+          "long": "Message is too long (maximum 500 characters)"
+        }
+      }
+    }
+  },
+  "home": {
+    "hero": {
+      "greeting": "Full‑stack Developer & QA Engineer",
+      "title": "I build & test digital solutions.",
+      "text": "<bold>Full‑stack developer</bold> with a <bold>QA mindset</bold> and <bold>mathematics</bold> background. I create robust, well‑tested applications where clean code meets seamless user experience.",
+      "btn1": "Explore My Projects",
+      "btn2": "Get In Touch"
+    },
+
+    "whatIDo": {
+      "title": "What I Do",
+      "build": {
+        "title": "⚡ Build",
+        "description": "I develop clean, scalable applications using modern frameworks and best practices. From concept to deployment, every feature is crafted with precision."
+      },
+      "test": {
+        "title": "\uD83D\uDD0D Test",
+        "description": "Quality assurance isn't an afterthought—it's integrated into my development process. I ensure reliability through comprehensive testing strategies."
+      },
+      "optimize": {
+        "title": "\uD83D\uDCCA Optimize",
+        "description": "With a background in mathematics, I approach problems analytically, optimizing performance and creating efficient, maintainable solutions."
+      }
+    },
+    "approach": {
+      "title": "My Approach",
+        "coverage": {
+          "number": "100%",
+          "label": "Test Coverage Goal"
+        },
+        "experience": {
+          "number": "3+",
+          "label": "Years Experience"
+        },
+        "problems": {
+          "number": "∞",
+          "label": "Problems Solved"
+      },
+      "description": "I believe great software is born from the intersection of solid engineering, rigorous testing, and user-centric design. My mathematical background gives me a unique perspective on problem-solving, allowing me to tackle complex challenges with analytical precision."
+    },
+    "contact": {
+      "title": "Let's Connect",
+      "description": "I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Let's build something amazing together.",
+      "cta": "Say Hello"
+    }
+  },
+  "project": {
+    "title": "Projets",
+    "text": "Vous trouverez ci-dessous une sélection de projets réalisés durant ma formation, mes stages et mon développement personnel. Ces projets reflètent mon profil de Développeur Full‑Stack avec une forte expertise en QA / Testing, axé sur des cas d’usage réels, une structure propre et la qualité logicielle.",
+    "projects": [
+      { "title": "1. Edulien – Plateforme de Gestion Éducative",
+        "item1": "Projet Personnel – Projet Final DWWM",
+        "status": "✅ Terminé",
+        "titleDes": "Description",
+        "description": "Plateforme conçue pour la gestion de classes avec un système de contrôle d’accès basé sur les rôles.",
+        "keyFuture": [
+          "Création et gestion de classes par les enseignants",
+          "Accès basé sur les rôles (enseignant / étudiant)",
+          "Ajout d’étudiants par email",
+          "Suivi des devoirs"
+        ],
+        "tech": "Tech Stack",
+        "techStack": [
+          "PHP",
+          "HTML",
+          "CSS",
+          "Bootstrap",
+          "MySQL"
+        ],
+        "deployment": "Déploiement",
+        "platform": "--> Plateforme : InfinityFree"
+      },
+      { "title": "1. Edulien – Plateforme de Gestion Éducative",
+        "item1": "Projet Personnel – Projet Final DWWM",
+        "status": "✅ Terminé",
+        "titleDes": "Description",
+        "description": "Plateforme conçue pour la gestion de classes avec un système de contrôle d’accès basé sur les rôles.",
+        "key": "Key Future",
+        "keyFuture": [
+          "Création et gestion de classes par les enseignants",
+          "Accès basé sur les rôles (enseignant / étudiant)",
+          "Ajout d’étudiants par email",
+          "Suivi des devoirs"
+        ],
+        "tech": "Tech Stack",
+        "techStack": [
+          "PHP",
+          "HTML",
+          "CSS",
+          "Bootstrap",
+          "MySQL"
+        ],
+        "deployment": "Déploiement",
+        "platform": "--> Plateforme : InfinityFree"
+      }
+    ]
+  },
+  "skills": {
+    "title": "💻 Technical Stack",
+    "frontend": "Frontend",
+    "fr_skills": [
+      "React",
+      "Next.js",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "MUI (Material UI)"
+    ],
+    "backend": "Backend",
+    "bc_skills": ["Java", "PHP", "Node.js", "REST API"],
+    "database": "Database",
+    "db_skills": ["MySQL", "MongoDB"],
+    "testing": "Testing",
+    "test_skills": ["Cucumber", "Selenium", "Robot Framework", "TestNG", "JUnit", "Postman"],
+    "methodology": "Methodologies & Tools",
+    "m_skills": [
+          "Agile Scrum",
+          "Kanban",
+          "Trello"
+        ]
+  },
+  "seo" : {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Musa Yalçın",
+      "jobTitle": "Full-Stack Web & Mobile Developer, QA Engineer, Mathematician",
+    "linkedin": "https://www.linkedin.com/in/musayalcin",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "Independent Software Developer"
+      },
+      "url": "https://portfolio.musayalcin.dev",
+      "sameAs": [
+        "https://www.linkedin.com/in/musayalcin",
+        "https://www.malt.fr/profile/musayalcin"
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Martigues",
+        "addressRegion": "Provence-Alpes-Côte d’Azur",
+        "addressCountry": "FR"
+      },
+      "title": {
+        "home": "Full-Stack Web & Mobile Developer",
+        "qa": "Quality Assurance (QA) Engineer",
+        "about": "Developer with a Mathematical Mindset"
+      },
+      "description": {
+        "home": "I build modern web and mobile applications using Next.js, React, Node.js, PHP, and Java, with strong expertise in quality assurance and testing processes.",
+        "qa": "Experienced in functional and automation testing, delivering reliable software through Cucumber and manual test scenarios.",
+        "about": "With a pedagogical background, I explain technical concepts clearly and build solid architectures through mathematical reasoning."
+      },
+      "skills": {
+        "general": [
+          "Full-stack web development",
+          "Mobile application development",
+          "Expertise in Next.js and React",
+          "Node.js backend development",
+          "PHP and Laravel development",
+          "Java backend development",
+          "API design and integration",
+          "Database modeling and optimization",
+          "UI/UX-focused component development",
+          "Responsive and accessible interfaces"
+        ],
+        "qa": [
+          "Functional testing",
+          "Automation testing",
+          "BDD with Cucumber",
+          "Test case creation",
+          "Bug analysis and reporting",
+          "Quality assurance processes"
+        ],
+        "devops": [
+          "Professional Git and GitHub usage",
+          "CI/CD concepts",
+          "Environment configuration and management"
+        ],
+        "soft": [
+          "Mathematical problem solving",
+          "Pedagogical communication",
+          "Analytical thinking",
+          "Team collaboration",
+          "Clear documentation and explanation"
+        ]
+      }
+    }
+}
