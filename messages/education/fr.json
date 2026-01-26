@@ -1,0 +1,140 @@
+{
+  "title": "Parcours en Éducation & Enseignement",
+  "description": "Mon parcours professionnel est ancré dans l’éducation et les mathématiques, ce qui influence fortement ma manière d’aborder aujourd’hui le développement logiciel et l’assurance qualité.",
+  "text": "Avant de travailler dans le domaine du logiciel, j’ai passé plusieurs années dans le secteur éducatif en tant que professeur de mathématiques, administrateur scolaire et coach éducatif dans des établissements privés.",
+  "experiences": [
+    {
+      "title": "📘 Professeur de Mathématiques",
+      "text": "J’ai travaillé en étroite collaboration avec les élèves pour développer :",
+      "skills": [
+        "La pensée analytique et logique",
+        "Des compétences structurées en résolution de problèmes",
+        "L’attention aux détails et la précision"
+      ],
+      "impact": "L’enseignement des mathématiques exigeait de décomposer des concepts complexes en étapes claires et compréhensibles."
+    },
+    {
+      "title": "🏫 Administration Scolaire",
+      "text": "Dans un environnement scolaire privé, j’ai assumé des responsabilités administratives et managériales :",
+      "skills": [
+        "Planification et organisation des processus académiques",
+        "Coordination des enseignants et des élèves",
+        "Suivi des performances et des résultats",
+        "Gestion des responsabilités dans des contraintes opérationnelles"
+      ],
+      "impact": ""
+    },
+    {
+      "title": "🎯 Coaching Éducatif",
+      "text": "J’ai travaillé comme coach éducatif, accompagnant les élèves dans :",
+      "skills": [
+        "La planification académique",
+        "La définition d’objectifs",
+        "Le suivi des progrès",
+        "La motivation et l’amélioration des performances"
+      ],
+      "impact": ""
+    }
+  ],
+  "educationShape": {
+    "title": "🧠 Comment l’Éducation Influence Mon Travail en Logiciel",
+    "text": "Mon parcours éducatif impacte directement ma manière de travailler aujourd’hui :",
+    "skills": [
+      {
+        "title": "Communication Claire",
+        "text": "Expliquer clairement les résultats de tests, les bugs et les concepts techniques aux parties prenantes techniques et non techniques"
+      },
+      {
+        "title": "Pensée Structurée",
+        "text": "Concevoir des cas de test et des flux de développement de manière logique, en décomposant les problèmes complexes"
+      },
+      {
+        "title": "Focus Qualité",
+        "text": "Vérifier les résultats plutôt que supposer leur exactitude, comme valider la compréhension d’un élève"
+      },
+      {
+        "title": "Collaboration",
+        "text": "Travailler efficacement avec des profils variés, en comprenant différents besoins et perspectives"
+      }
+    ],
+    "quote": "Dans l’enseignement comme dans le logiciel, la réussite dépend de la clarté, de la structure et de la confiance."
+  },
+  "teaching": {
+    "title": "De l’Enseignement à la Technologie",
+    "items": [
+      {
+        "from": {
+          "title": "Expliquer des concepts mathématiques complexes",
+          "text": "Simplifier des notions abstraites pour faciliter la compréhension des élèves"
+        },
+        "to": {
+          "title": "Analyser les systèmes et rédiger des scénarios de test",
+          "text": "Décomposer un logiciel en composants testables"
+        }
+      },
+      {
+        "from": {
+          "title": "Écouter les besoins des élèves",
+          "text": "Comprendre les difficultés individuelles et apporter un accompagnement adapté"
+        },
+        "to": {
+          "title": "Collaboration en équipe et mentorat",
+          "text": "Soutenir les collègues et documenter les solutions"
+        }
+      },
+      {
+        "from": {
+          "title": "Suivre la progression des élèves",
+          "text": "Observer les performances et identifier les axes d'amélioration"
+        },
+        "to": {
+          "title": "Assurance qualité et tests",
+          "text": "Suivre les bugs, valider les correctifs et garantir la qualité"
+        }
+      }
+    ]
+  },
+    "knowledge": {
+      "title": "📘 Apprentissage Continu & Partage de Connaissances",
+      "text": "L’éducation ne s’est pas arrêtée lorsque je suis passé au logiciel. Je continue à :",
+      "skills": [
+        "Apprendre de nouveaux outils et technologies,",
+        "Documenter ce que je développe et teste,",
+        "Partager mes connaissances via des explications et études de cas."
+      ],
+      "quote": "Je crois que les meilleurs professionnels ne sont pas seulement compétents, mais aussi capables d’enseigner et de transmettre leur savoir."
+    },
+    "background": {
+      "title": "🎓 Pourquoi Ce Parcours Compte",
+      "text": "Mon expérience dans l’éducation me permet de :",
+      "skills": [
+        "Faciliter la communication entre profils techniques et non techniques,",
+        "Contribuer à l’onboarding et au transfert de connaissances,",
+        "Soutenir les équipes avec une approche structurée et centrée sur l’humain."
+      ],
+      "quote": "Cette combinaison d’éducation, d’assurance qualité et de développement définit mon identité professionnelle."
+    },
+    "moving": {
+      "title": "🚀 Aller Plus Loin",
+      "subTitle": "Aujourd’hui, je réunis :",
+      "skills": [
+        {
+          "title": "📘 Mathématiques & Éducation",
+          "text": "Une base solide en pensée structurée et communication"
+        },
+        {
+          "title": "🧪 QA & Testing",
+          "text": "Une expérience pratique en assurance qualité et automatisation des tests"
+        },
+        {
+          "title": "💻 Développement Full‑Stack",
+          "text": "Une expertise croissante dans la création d’applications complètes"
+        }
+      ],
+      "quote": "Ce parcours unique me permet de contribuer non seulement en écrivant ou testant du logiciel, mais aussi en améliorant la manière dont les équipes pensent, communiquent et livrent des produits de qualité."
+    },
+    "cta": {
+      "title": "En Savoir Plus sur Mon Travail",
+      "text": "Découvrez comment mon parcours éducatif se traduit en compétences concrètes en développement logiciel et en assurance qualité."
+    }
+  }
