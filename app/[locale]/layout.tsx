@@ -7,6 +7,7 @@ import {hasLocale, NextIntlClientProvider} from "next-intl";
 import {notFound} from "next/dist/client/components/not-found";
 import {setRequestLocale} from "next-intl/server";
 import Footer from "@/components/footer";
+import React from "react";
 
 export const metadata: Metadata = {
   title: "Create Next App",

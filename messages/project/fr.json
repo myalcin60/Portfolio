@@ -1,0 +1,51 @@
+ {
+    "title": "Projets",
+    "text": "Vous trouverez ci-dessous une sélection de projets réalisés durant ma formation, mes stages et mon développement personnel. Ces projets reflètent mon profil de Développeur Full‑Stack avec une forte expertise en QA / Testing, axé sur des cas d’usage réels, une structure propre et la qualité logicielle.",
+    "projects": [
+       { "title": "1. Edulien – Plateforme de Gestion Éducative",
+          "item1": "Projet Personnel – Projet Final DWWM",
+          "status": "✅ Terminé",
+         "titleDes": "Description",
+          "description": "Plateforme conçue pour la gestion de classes avec un système de contrôle d’accès basé sur les rôles.",
+          "keyFuture": [
+            "Création et gestion de classes par les enseignants",
+            "Accès basé sur les rôles (enseignant / étudiant)",
+            "Ajout d’étudiants par email",
+            "Suivi des devoirs"
+          ],
+         "tech": "Tech Stack",
+          "techStack": [
+            "PHP",
+            "HTML",
+            "CSS",
+            "Bootstrap",
+            "MySQL"
+          ],
+          "deployment": "Déploiement",
+          "platform": "--> Plateforme : InfinityFree"
+      },
+      {
+        "title": "2. CodeurFreelance – Site Vitrine",
+        "item1": "Projet de Stage",
+        "status": "✅ Terminé",
+        "titleDes": "Description",
+        "description": "Site vitrine uniquement Frontend, doté d’une interface moderne, responsive et multilingue. Développé en équipe durant le stage.",
+        "key": "Fonctionnalités Clés",
+        "keyFuture": [
+          "Support multilingue",
+          "Composants UI modernes",
+          "Mise en page responsive"
+        ],
+        "tech": "Stack Technique",
+        "techStack": [
+          "Next.js",
+          "HTML",
+          "CSS",
+          "MUI Material",
+          "i18n"
+        ],
+        "deployment": "",
+        "platform": ""
+      }
+    ]
+  }

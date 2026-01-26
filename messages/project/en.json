@@ -1,0 +1,52 @@
+ {
+    "title": "Projects",
+    "text": "Below is a selection of projects completed during my training, internships, and personal development. These projects reflect my profile as a Full‑Stack Developer with strong QA / Testing expertise, focusing on real use cases, clean structure, and software quality.",
+    "projects": [
+      {
+        "title": "1. Edulien – Educational Management Platform",
+        "item1": "Personal Project – DWWM Final Project",
+        "status": "✅ Completed",
+        "titleDes": "Description",
+        "description": "A platform designed for class management with a role‑based access control system.",
+        "keyFuture": [
+          "Teachers can create and manage classes",
+          "Role‑based access (teacher / student)",
+          "Students can be added via email",
+          "Homework tracking"
+        ],
+        "tech": "Tech Stack",
+        "techStack": [
+          "PHP",
+          "HTML",
+          "CSS",
+          "Bootstrap",
+          "MySQL"
+        ],
+        "deployment": "Deployment",
+        "platform": "Platform: InfinityFree"
+      },
+      {
+        "title": "2. CodeurFreelance – Showcase Website",
+        "item1": "Internship Project",
+        "status": "✅ Completed",
+        "titleDes": "Description",
+        "description": "IFrontend-only showcase website with modern, responsive, and multilingual interface. Developed as part of a team during internship.",
+        "key": "Key Features",
+        "keyFuture": [
+          "Multilingual support",
+          "Modern UI components",
+          "Responsive layout"
+        ],
+        "tech": "Tech Stack",
+        "techStack": [
+          "Next.js",
+          "HTML",
+          "CSS",
+          "MUI Material",
+          "i18n"
+        ],
+        "deployment": "",
+        "platform": ""
+      }
+    ]
+  }

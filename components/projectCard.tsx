@@ -13,12 +13,7 @@ export default function ProjectCard(){
         <>
             {message.map((p, index:number)=>(
                 <Paper key={index} variant={'glowCard2'}>
-                    <Box sx={{
-                        borderBottom:`2px solid ${theme.palette.primary.main}`,
-                        p:3,
-                        mb:3,
-                        backgroundColor: theme.palette.secondary.main,
-                     }}>
+                    <Box sx={{borderBottom :1, pb:3}} >
                         <Typography variant={'h2'}>
                             {p.title}
                         </Typography>
@@ -66,14 +61,14 @@ export default function ProjectCard(){
                             ))}
                         </Box>
                     </Box>
-                    <Box sx={{mt:4}}>
+                    <Paper variant={'projectCard'} sx={{mt:4}}>
                         <Typography variant={'h3'}>
                             {p.deployment}
                         </Typography>
                         <Typography>
                             {p.platform}
                         </Typography>
-                    </Box>
+                    </Paper>
                 </Paper>
             ))}
 

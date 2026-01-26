@@ -22,8 +22,9 @@ export const CustomColors={
     text_white:"#FFFFFF",
     text_dark:"#000000",
     text_red:"#c31e03",
-    green:"#53df74",
+    green:"#04951d",
     purple:"#b172bc",
+    purple_s:"#5c0e6a"
 }
 
 export const lightTheme = createTheme({
@@ -143,7 +144,6 @@ export const lightTheme = createTheme({
                             boxShadow: `
                                 inset 1px 1px 1px  ${CustomColors.orange_dark} ,
                                 inset 1px 1px 1px  ${CustomColors.orange_dark} ,
-                                1px 1px 1px ${CustomColors.orange_dark}
                                 `,
                         },
                         '@media(min-width:500)':{
@@ -160,6 +160,15 @@ export const lightTheme = createTheme({
                         borderRadius:"12px ",
                         border: `1px solid ${CustomColors.bg_light_secondary} 0 0 0`,
                         borderBottom: "none",
+                        cursor: 'pointer',
+                        transition: '0.3s',
+                        '&:hover': {
+                            border:CustomColors.orange_light,
+                            boxShadow: `
+                                inset 1px 1px 1px  ${CustomColors.orange_dark} ,
+                                inset 1px 1px 1px  ${CustomColors.orange_dark} ,
+                                `,
+                        },
                         boxShadow: `
                                 inset 0px 1px 0px  ${CustomColors.bg_main} ,                            
                                 0 0 2px ${CustomColors.bg_secondary}
@@ -181,7 +190,7 @@ export const lightTheme = createTheme({
                         cursor: 'pointer',
                         transition: '0.3s',
                         boxShadow: `
-                                inset 0px 4px 0px  ${CustomColors.orange_dark}`,
+                                inset 0px 4px 0px  ${CustomColors.purple_s}`,
                         '@media(max-width:500px)':{
                             minWidth:180,
                             padding:24
@@ -196,6 +205,17 @@ export const lightTheme = createTheme({
                         border: 15,
                         padding: 15,
                         margin: 15
+                    }
+
+                },
+                {
+                    props:{variant: 'projectCard'},
+                    style:{
+                        background: `linear-gradient(180deg, ${CustomColors.bg_light_secondary} 0%, ${CustomColors.bg_light} 100%)`,
+                        color: CustomColors.bg_main,
+                        border: 15,
+                        padding: 10,
+                        marginBottom: 5
                     }
 
                 },
@@ -233,7 +253,7 @@ export const darkTheme = createTheme({
     },
     typography: {
         fontFamily: `var(${ibmPlexSans.style.fontFamily}), sans-serif`,
-        h1: {color:CustomColors.bg_light,
+        h1: {color:CustomColors.orange_light,
             fontFamily: `var(${imFellFrenchCanon.style.fontFamily}), Roboto, serif`,
             fontWeight: 400,
             fontSize: 48,
@@ -323,7 +343,6 @@ export const darkTheme = createTheme({
                             boxShadow: `
                                 inset 1px 1px 1px  ${CustomColors.orange_light} ,
                                 inset 1px 1px 1px  ${CustomColors.orange_light} ,
-                                1px 1px 1px ${CustomColors.orange_light}
                                 `,
                         },
                     },
@@ -337,6 +356,15 @@ export const darkTheme = createTheme({
                         borderRadius:"12px ",
                         border: `0px solid ${CustomColors.bg_light} 0 0 0`,
                         borderBottom: "none",
+                        cursor: 'pointer',
+                        transition: '0.3s',
+                        '&:hover': {
+                            border:CustomColors.orange_light,
+                            boxShadow: `
+                                inset 1px 1px 1px  ${CustomColors.bg_secondary} ,
+                                inset 1px 1px 1px  ${CustomColors.bg_light}                           
+                                `,
+                        },
                         boxShadow: `
                                 inset 0px 1px 0px  ${CustomColors.bg_secondary} ,                            
                                 0 0 2px ${CustomColors.bg_secondary}
@@ -374,6 +402,17 @@ export const darkTheme = createTheme({
                         border: 15,
                         padding: 15,
                         margin: 15
+                    }
+
+                },
+                {
+                    props:{variant: 'projectCard'},
+                    style:{
+                        background: `linear-gradient(180deg, ${CustomColors.bg_secondary} 0%, ${CustomColors.bg_light_secondary} 100%)`,
+                        color: CustomColors.bg_main,
+                        border: 15,
+                        padding: 10,
+                        marginBottom: 5
                     }
 
                 },

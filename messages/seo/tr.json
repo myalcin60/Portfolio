@@ -1,0 +1,52 @@
+{"siteName": "My codeur",
+  "locale": "tr_TR",
+  "robots": "index, follow",
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "url": "https://portfolio.musayalcin.dev",
+
+  "linkedin":  "https://www.linkedin.com/in/musayalcin",
+   "malt" : "https://www.malt.fr/profile/musayalcin",
+
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Freelance Software Developer"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Martigues",
+    "addressRegion": "Provence-Alpes-Côte d’Azur",
+    "addressCountry": "FR"
+  },
+  "name": "Musa Yalçın",
+  "jobTitle": "Full-Stack Web & Mobil Geliştirici, QA Mühendisi, Matematikçi",
+  "title": {
+    "home": "Full-Stack Web & Mobil Geliştirici",
+    "qa": "Kalite Güvence (QA) Mühendisi",
+    "about": "Matematiksel Yaklaşıma Sahip Geliştirici",
+    "projects": "Projeler & Çalışmalar",
+    "education": "Eğitim & Akademik Geçmiş",
+    "contact": "İletişim | Birlikte Çalışalım"
+  },
+  "description": {
+    "home": "Next.js, React, Node.js, PHP ve Java kullanarak modern web ve mobil uygulamalar geliştiriyorum. Kalite güvence alanında güçlü bir uzmanlığa sahibim.",
+    "qa": "Cucumber ve manuel test senaryoları ile fonksiyonel ve otomasyon testleri konusunda deneyimliyim; güvenilir ve hatasız teslimatlar sağlarım.",
+    "about": "Eğitmenlik geçmişim sayesinde teknik kavramları sade bir şekilde anlatır, matematiksel mantığa dayalı sağlam yazılım mimarileri tasarlarım.",
+    "projects": "Full-stack geliştirme, yazılım kalitesi ve modern mimari konularındaki uzmanlığımı yansıtan web ve yazılım projelerinden bir seçkiyi inceleyin.",
+    "education": "Matematik, bilgisayar bilimleri ve kalite güvence alanlarındaki akademik geçmişim ve eğitimlerim; analitik düşünce ve disiplin odaklıdır.",
+    "contact": "Bir proje ya da iş birliği fikriniz mi var? İhtiyaçlarınıza uygun bir çözüm geliştirmek için benimle iletişime geçin."
+  },
+
+  "skills": {
+    "general": [
+      "Full-stack web geliştirme",
+      "Mobil uygulama geliştirme",
+      "Next.js ve React uzmanlığı"
+    ],
+    "qa": [
+      "Fonksiyonel testler",
+      "Otomasyon testleri",
+      "Cucumber ile BDD"
+    ]
+  }
+}

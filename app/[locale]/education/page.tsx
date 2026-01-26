@@ -1,11 +1,18 @@
-import {Box} from "@mui/material";
+import {Metadata} from "next";
+import {seoMetadata} from "@/utils/metaData";
+import EducationClient from "@/components/pages/educationClient";
 
+interface Params {
+    params: Promise<{ locale: string }>
+}
 
-export default function Project(){
+export async function generateMetadata({params}: Params): Promise<Metadata> {
+    const {locale} = await params;
+    return seoMetadata(locale, 'education')
+}
 
-    return(
-        <Box>
-            Project Page
-        </Box>
+export default function Project() {
+    return (
+        <EducationClient/>
     )
 }

@@ -1,0 +1,87 @@
+{
+    "hero": {
+      "greeting": "Full‑stack Geliştirici & QA Tester",
+      "title": "Dijital çözümler geliştirir ve test ederim.",
+      "text": "<bold>QA odaklı</bold> ve <bold>matematik</bold> temelli bir <bold>full‑stack geliştirici</bold> olarak, temiz kod ile kusursuz kullanıcı deneyimini birleştiren sağlam ve iyi test edilmiş uygulamalar geliştiriyorum.",
+      "btn1": "Projelerimi Keşfet",
+      "btn2": "İletişime Geç"
+    },
+    "whatIDo": {
+      "title": "⚡ Ne Yapıyorum",
+      "build": {
+        "title": "Geliştirmek",
+        "description": "Modern framework’ler ve en iyi uygulamalarla temiz ve ölçeklenebilir uygulamalar geliştiririm. Fikirden yayına kadar her özellik titizlikle oluşturulur."
+      },
+      "test": {
+        "title": "\uD83D\uDD0D Test",
+        "description": "Kalite güvencesi sonradan eklenen bir adım değildir — geliştirme sürecimin ayrılmaz bir parçasıdır. Kapsamlı test stratejileriyle güvenilirliği garanti ederim."
+      },
+      "optimize": {
+        "title": "\uD83D\uDCCA Optimizasyon",
+        "description": "Matematik altyapım sayesinde problemlere analitik yaklaşır, performansı optimize eden ve sürdürülebilir çözümler üretirim."
+      }
+    },
+    "approach": {
+      "title": "Yaklaşımım",
+      "coverage": {
+        "number": "%100",
+        "label": "Test Kapsamı Hedefi"
+      },
+      "experience": {
+        "number": "3+",
+        "label": "Yıl Deneyim"
+      },
+      "problems": {
+        "number": "∞",
+        "label": "Çözülen Problem"
+      },
+      "description": "Harika yazılımın; sağlam mühendislik, titiz test süreçleri ve kullanıcı odaklı tasarımın kesişiminde ortaya çıktığına inanırım. Matematik geçmişim, karmaşık problemleri analitik bir hassasiyetle ele almamı sağlar."
+    },
+    "contact": {
+      "title": "Bağlantı Kuralım",
+      "description": "Yeni projeler, yaratıcı fikirler veya iş birlikleri hakkında konuşmaya her zaman açığım. Gelin birlikte harika bir şeyler üretelim.",
+      "cta": "Merhaba De"
+    },
+    "skills": {
+      "title": "\uD83D\uDCBB Teknik Yetkinlikler",
+      "frontend": "Frontend",
+      "fr_skills": [
+        "React",
+        "Next.js",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Bootstrap",
+        "MUI (Material UI)"
+      ],
+      "backend": "Backend",
+      "bc_skills": [
+        "Java",
+        "PHP",
+        "Node.js",
+        "REST API"
+      ],
+      "database": "Veritabanı",
+      "db_skills": [
+        "MySQL",
+        "MongoDB"
+      ],
+      "testing": "Testler",
+      "test_skills": [
+        "Cucumber",
+        "Selenium",
+        "Robot Framework",
+        "TestNG",
+        "JUnit",
+        "Postman"
+      ],
+      "methodology": "Metodolojiler & Araçlar",
+      "m_skills": [
+        "Agile Scrum",
+        "Kanban",
+        "Trello"
+      ]
+    }
+  }
+
+

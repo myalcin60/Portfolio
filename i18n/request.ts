@@ -7,9 +7,18 @@ export default getRequestConfig(async ({requestLocale}) => {
     const locale = hasLocale(routing.locales, requested)
         ? requested
         : routing.defaultLocale;
-
     return {
         locale,
-        messages: (await import(`../messages/${locale}.json`)).default
+        messages: {
+            home: (await import(`../messages/home/${locale}.json`)).default,
+            seo: (await import(`../messages/seo/${locale}.json`)).default,
+            contact: (await import(`../messages/contact/${locale}.json`)).default,
+            project: (await import(`../messages/project/${locale}.json`)).default,
+            navbar: (await import(`../messages/navbar/${locale}.json`)).default,
+            footer: (await import(`../messages/footer/${locale}.json`)).default,
+            testing: (await import(`../messages/testing/${locale}.json`)).default,
+            education: (await import(`../messages/education/${locale}.json`)).default,
+            about: (await import(`../messages/about/${locale}.json`)).default,
+        }
     };
 });

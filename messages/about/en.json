@@ -1,0 +1,83 @@
+{
+  "title": "\uD83D\uDC4B Hi, I'm Musa",
+  "text": "I am a Junior Full-Stack Developer with a strong QA / testing mindset and a background in Mathematics and Education. Before transitioning into software development, I worked as a mathematics teacher. This experience shaped the way I approach problems today: structured thinking, logical reasoning, and a strong focus on clarity and correctness.",
+  "mindset": {
+    "title": "\uD83D\uDCBB My Developer Mindset",
+    "text": "As a full-stack developer, I enjoy working across the entire application lifecycle:",
+    "items": [
+      "Designing clean and structured architectures,",
+      "Developing frontend and backend features,",
+      "Building REST APIs connected to relational databases,",
+      "And validating behavior through testing."
+    ],
+    "impacts": [
+      {
+        "title": "Clean Code",
+        "description": "Maintainable and readable code that stands the test of time"
+      },
+      {
+        "title": "Clear Architecture",
+        "description": "Well-organized structure with meaningful naming conventions"
+      },
+      {
+        "title": "Real-World Focus",
+        "description": "Practical use cases over theoretical toy examples"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "title": "\uD83E\uDDE0 From Mathematics to Software Development",
+      "description": "Mathematics taught me how to:",
+      "items": [
+        "Break complex problems into smaller parts,",
+        "Reason step by step,",
+        "And validate results instead of assuming they are correct."
+      ],
+      "additional": "These skills naturally transferred to software development.",
+      "quote": "When I write code, I don't only ask 'Does it work?' — I also ask 'Is it reliable, testable, and understandable?'"
+    },
+    {
+      "title": "\uD83E\uDDEA Quality & Testing First",
+      "description": "Testing is an integral part of how I work, not an afterthought.",
+      "items": [
+        "Think in scenarios and edge cases,",
+        "Write backend and API tests,",
+        "Validate error handling and data consistency,",
+        "Apply basic performance and load testing when relevant."
+      ],
+      "additional": "This quality-first approach allows me to build software that teams can trust and evolve safely.",
+      "quote": ""
+    },
+    {
+      "title": "\uD83D\uDCD8 Education & Knowledge Sharing",
+      "description": "With my background as an educator, I naturally focus on:",
+      "items": [
+        "Clear documentation,",
+        "Structured explanations,",
+        "And sharing knowledge with others."
+      ],
+      "additional": "I enjoy explaining technical concepts in a simple way — whether through documentation, project case studies, or internal explanations — because good software is not only written, but also understood.",
+      "quote": ""
+    },
+    {
+      "title": "\uD83C\uDFAF What I'm Looking For",
+      "description": "I am looking for a junior full-stack position where I can:",
+      "items": [
+        "Grow as a professional developer,",
+        "Contribute with a QA-aware mindset,",
+        "And work in a team that values code quality, learning, and collaboration."
+      ],
+      "additional": "I am particularly motivated by environments where development, testing, and clear communication go hand in hand.",
+      "quote": ""
+    }
+  ],
+  "beyond": {
+    "title": "\uD83D\uDE80 Beyond Code",
+    "description": "Outside of development, my mathematical and teaching background continues to influence how I learn, explain, and collaborate. I believe strong software is built by people who care about logic, clarity, and reliability — values I bring into every project."
+  },
+  "cta": {
+    "title": "Get to Know My Work",
+    "description": "Explore my projects and see how I apply these principles in practice."
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "title": "👋 Bonjour, je suis Musa",
+  "text": "Je suis un développeur Full-Stack Junior avec une forte sensibilité QA / tests et un parcours en Mathématiques et en Éducation. Avant de me reconvertir dans le développement logiciel, j’ai travaillé comme enseignant de mathématiques. Cette expérience influence encore aujourd’hui ma manière d’aborder les problèmes : pensée structurée, raisonnement logique et priorité à la clarté et à la justesse.",
+  "mindset": {
+    "title": "💻 Mon état d’esprit de développeur",
+      "text": "En tant que développeur full‑stack, j’aime intervenir sur l’ensemble du cycle de vie d’une application :",
+      "items": [
+        "Concevoir des architectures propres et structurées,",
+        "Développer des fonctionnalités frontend et backend,",
+        "Construire des API REST connectées à des bases de données relationnelles,",
+        "Et valider le comportement grâce aux tests."
+      ],
+      "impacts": [
+        {
+          "title": "Clean Code",
+          "description": "Un code maintenable et lisible qui résiste au temps"
+        },
+        {
+          "title": "Architecture Claire",
+          "description": "Une structure bien organisée avec des conventions de nommage pertinentes"
+        },
+        {
+          "title": "Orientation Pratique",
+          "description": "Des cas d’usage concrets plutôt que des exemples théoriques"
+        }
+      ]
+  },
+  "sections": [
+    {
+      "title": "🧠 Des mathématiques au développement logiciel",
+      "description": "Les mathématiques m’ont appris à :",
+      "items": [
+        "Décomposer les problèmes complexes en parties plus simples,",
+        "Raisonner étape par étape,",
+        "Et valider les résultats au lieu de supposer qu’ils sont corrects."
+      ],
+      "additional": "Ces compétences se sont naturellement transférées au développement logiciel.",
+      "quote": "Quand j’écris du code, je ne me demande pas seulement « Est‑ce que ça fonctionne ? » — mais aussi « Est‑ce fiable, testable et compréhensible ? »"
+    },
+    {
+      "title": "🧪 Qualité & Tests avant tout",
+      "description": "Les tests font partie intégrante de ma manière de travailler, jamais une réflexion secondaire.",
+      "items": [
+        "Penser en scénarios et cas limites,",
+        "Ecrire des tests backend et API,",
+        "Valider la gestion des erreurs et la cohérence des données,",
+        "Appliquer des tests de performance et de charge lorsque c’est pertinent."
+      ],
+      "additional": "Cette approche orientée qualité me permet de construire des logiciels fiables, que les équipes peuvent faire évoluer en toute confiance.",
+      "quote": ""
+    },
+    {
+      "title": "📘 Éducation & Partage de connaissances",
+      "description": "Grâce à mon expérience d’enseignant, je me concentre naturellement sur :",
+      "items": [
+        "Une documentation claire,",
+        "Des explications structurées,",
+        "Et le partage de connaissances."
+      ],
+      "additional": "J’aime expliquer des concepts techniques de manière simple — que ce soit via la documentation, des études de cas ou des explications internes — car un bon logiciel n’est pas seulement écrit, il est aussi compris.",
+      "quote": ""
+    },
+    {
+      "title": "🎯 Ce que je recherche",
+      "description": "Je recherche un poste de développeur full‑stack junior où je pourrai :",
+      "items": [
+        "Grandir en tant que développeur professionnel,",
+        "Contribuer avec une approche orientée QA,",
+        "Et travailler dans une équipe qui valorise la qualité du code, l’apprentissage et la collaboration."
+      ],
+      "additional": "Je suis particulièrement motivé par les environnements où développement, tests et communication claire avancent ensemble.",
+      "quote": ""
+    }
+  ],
+  "beyond": {
+    "title": "🚀 Au‑delà du code",
+    "description": "En dehors du développement, mon parcours en mathématiques et en enseignement continue d’influencer ma manière d’apprendre, d’expliquer et de collaborer. Je crois que les meilleurs logiciels sont construits par des personnes qui valorisent la logique, la clarté et la fiabilité — des valeurs que j’apporte dans chaque projet."
+  },
+  "cta": {
+    "title": "Découvrez mon travail",
+    "description": "Explorez mes projets et voyez comment j’applique ces principes en pratique."
+  }
+}

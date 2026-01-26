@@ -1,0 +1,52 @@
+{"siteName": "My codeur",
+  "locale": "fr_FR",
+  "robots": "index, follow",
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "url": "https://portfolio.musayalcin.dev",
+  "linkedin":  "https://www.linkedin.com/in/musayalcin",
+  "malt" : "https://www.malt.fr/profile/musayalcin",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Freelance Software Developer"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Martigues",
+    "addressRegion": "Provence-Alpes-Côte d’Azur",
+    "addressCountry": "FR"
+  },
+  "name": "Musa Yalçın",
+  "jobTitle": "Développeur Web & Mobile Full-Stack, QA Engineer, Mathématicien",
+
+  "title": {
+    "home": "Développeur Web & Mobile Full-Stack",
+    "qa": "Ingénieur Assurance Qualité (QA)",
+    "about": "Développeur avec une approche mathématique",
+    "projects": "Projets & Réalisations",
+    "education": "Parcours Académique & Formations",
+    "contact": "Contact | Travaillons Ensemble"
+  },
+
+  "description": {
+    "home": "Je développe des applications web et mobiles modernes avec Next.js, React, Node.js, PHP et Java, avec une expertise solide en assurance qualité.",
+    "qa": "Expérimenté en tests fonctionnels et automatisés, garantissant des livraisons fiables grâce à Cucumber et aux scénarios manuels.",
+    "about": "Grâce à mon parcours pédagogique, j’explique clairement les concepts techniques et conçois des architectures solides basées sur la logique mathématique.",
+    "projects": "Découvrez une sélection de projets web et logiciels démontrant mon expertise en développement full-stack, qualité logicielle et architecture moderne.",
+    "education": "Mon parcours académique et mes formations en mathématiques, informatique et assurance qualité, axés sur la rigueur et la logique.",
+    "contact": "Vous avez un projet ou une collaboration en tête ? Contactez-moi pour échanger et construire une solution adaptée à vos besoins."
+  },
+
+  "skills": {
+    "general": [
+      "Développement web full-stack",
+      "Développement d’applications mobiles",
+      "Expertise en Next.js et React"
+    ],
+    "qa": [
+      "Tests fonctionnels",
+      "Tests automatisés",
+      "BDD avec Cucumber"
+    ]
+  }
+}

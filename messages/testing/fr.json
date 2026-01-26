@@ -1,0 +1,139 @@
+{
+  "title": "Tests & Assurance Qualité",
+  "description": "Je travaille en tant que QA / Testeur Logiciel avec une solide expérience en développement. Mon objectif est d’assurer la qualité logicielle grâce aux tests manuels, à l’automatisation des tests et aux tests de performance, tout en collaborant étroitement avec les développeurs.",
+  "titleQa": "🧠 Mentalité QA & Testing",
+  "text": "J’aborde les tests comme un processus structuré et analytique :",
+  "points": [
+    "Comprendre les exigences et les attentes des utilisateurs,",
+    "Les traduire en scénarios et cas de test,",
+    "Identifier les risques, cas limites et points de défaillance,",
+    "Et garantir que les problèmes sont clairement documentés et suivis."
+  ],
+  "additional": "Grâce à mon expérience en développement et en mathématiques, je me concentre naturellement sur la logique, la cohérence et la vérification.",
+  "titleTypes": "🧪 Types de Tests que Je Réalise",
+  "categorieType": [
+    {
+      "title": " 🔹 Tests Manuels",
+      "items": [
+        "Tests fonctionnels (UI & workflows)",
+        "Tests de régression",
+        "Tests exploratoires",
+        "Tests multi-navigateurs"
+      ]
+    },
+    {
+      "title": "🔹 Automatisation des Tests",
+      "items": [
+        "Automatisation UI pour applications web",
+        "Automatisation basée sur des scénarios",
+        "Automatisation de régression"
+      ]
+    },
+    {
+      "title": "🔹 Tests API",
+      "items": [
+        "Tests fonctionnels API",
+        "Validation des requêtes/réponses",
+        "Vérification des autorisations et gestion des erreurs"
+      ]
+    },
+    {
+      "title": "🔹 Tests de Performance & Charge",
+      "items": [
+        "Tests de charge et de stress",
+        "Analyse des goulots d’étranglement",
+        "Validation du temps de réponse et de la stabilité"
+      ]
+    }
+  ],
+  "titleTool": "🛠️ Outils & Technologies",
+  "categorieTool": [
+    {
+      "title": "🔧 Automatisation & Tests Fonctionnels",
+      "items": [
+        "Selenium",
+        "Cucumber (BDD)",
+        "TestNG",
+        "Robot Framework"
+      ]
+    },
+    {
+      "title": "🔌 Tests API",
+      "items": [
+        "Postman"
+      ]
+    },
+    {
+      "title": "🚀 Tests de Performance",
+      "items": [
+        "Apache JMeter"
+      ]
+    },
+    {
+      "title": "📋 Gestion des Tests & Suivi des Bugs",
+      "items": [
+        "Jira",
+        "Trello"
+      ]
+    }
+  ],
+  "content": [
+    {
+      "title": "📄 Documentation de Test & Reporting",
+      "text": "Je prépare une documentation de test claire et structurée, incluant :",
+      "items": [
+        "Plans et stratégies de test,",
+        "Cas et scénarios de test détaillés,",
+        "Rapports de bugs avec étapes reproductibles,",
+        "Classification de sévérité et priorité,",
+        "Collaboration avec les équipes de développement jusqu’à résolution."
+      ],
+      "goal": "Mon objectif est de garantir que les problèmes ne sont pas seulement détectés, mais compris et résolus efficacement."
+    },
+    {
+      "title": "🧪 Exemple de Workflow QA",
+      "text": "",
+      "items": [
+        "Analyser les exigences et user stories",
+        "Concevoir les scénarios et cas de test",
+        "Exécuter les tests manuels et automatisés",
+        "Enregistrer et suivre les bugs via Jira ou Trello",
+        "Vérifier les correctifs et effectuer les tests de régression",
+        "Valider la performance et la stabilité si nécessaire"
+      ],
+      "goal": "Ce workflow garantit la qualité tout au long du cycle de développement."
+    },
+    {
+      "title": "🔗 QA dans Mes Projets",
+      "text": "L’assurance qualité est intégrée dans mes projets grâce à :",
+      "items": [
+        "Tests UI et API automatisés,",
+        "Scénarios de tests de performance,",
+        "Rapports de bugs et cas de test documentés."
+      ],
+      "goal": "Chaque projet montre comment je combine les pratiques QA avec mes connaissances en développement."
+    },
+    {
+      "title": "🎯 Objectif Professionnel",
+      "text": "Mon objectif est d’évoluer en tant que QA Engineer / Testeur Logiciel avec une solide base en développement, en contribuant à la qualité, la fiabilité et la communication au sein des équipes.",
+      "items": [],
+      "goal": ""
+    },
+    {
+      "title": "🚀 Au‑delà du Testing",
+      "text": "Grâce à mon expérience full‑stack et pédagogique, je :",
+      "items": [
+        "Comprends comment les applications sont construites,",
+        "Communique efficacement avec les développeurs,",
+        "Et aide à réduire l’écart entre développement et assurance qualité."
+      ],
+      "goal": "Je crois que la qualité logicielle résulte de la collaboration, de la structure et de l’amélioration continue."
+    },
+    {
+      "title": "Explorez Mon Travail",
+      "text": "Découvrez comment j’intègre le testing et l’assurance qualité dans mes projets, ou contactez‑moi pour discuter de votre équipe.",
+      "items": [],
+      "goal": ""
+    }
+]
+}

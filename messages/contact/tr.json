@@ -1,0 +1,51 @@
+{
+    "availability": {
+      "title": "🕒 Müsaitlik",
+      "text": "Şu pozisyonlara açığım:",
+      "item1": "Junior Full-Stack Developer pozisyonları",
+      "item2": "QA / Yazılım Test Uzmanı pozisyonları",
+      "item3": "Matematik Ogretmenligi",
+      "description": "Kod kalitesine, test süreçlerine ve açık iletişime önem veren çalışma ortamlarıyla özellikle ilgileniyorum."
+    },
+    "title": "📬 İletişime Geçelim",
+    "text": "Junior full‑stack, QA / test veya hibrit bir rol hakkında konuşmak — ya da projeler, kalite veya öğrenme üzerine sohbet etmek istersen — benimle iletişime geçmekten çekinme.",
+    "slogan": "🚀 İyi yazılım, iyi iletişimle başlar. Haydi birlikte anlamlı — ve test edilmiş — bir şeyler inşa edelim.",
+    "email": "E‑posta",
+    "linkedln": "LinkedIn",
+    "github": "GitHub",
+    "form": {
+      "title": "📝Bir Mesaj Gönderin",
+      "name": "Adınız",
+      "mail": "E‑postanız",
+      "subject": "Konu",
+      "message": "Mesaj",
+      "sending": "Gönderiliyor",
+      "send": "Gönder",
+      "success": "Mesajiniz basariyla gonderildi.",
+      "errors": {
+        "error": "Mail gonderilmedi",
+        "rateLimit": "Çok fazla istek yaptınız",
+        "name": {
+          "name": "Isim gerekli",
+          "short": "Isim cok kisa",
+          "long": "Isim cok uzun"
+        },
+        "mail": {
+          "mail": "E-mail gerekli",
+          "short": "E-mail gecersiz",
+          "long": "E-mail cok kisa"
+        },
+        "subject": {
+          "header": "Geçersiz karakter tespit edildi",
+          "subject": "Konu gerekli",
+          "short": "Konu cok kisa",
+          "long": "Konu cok uzun"
+        },
+        "message": {
+          "message": "Message gerekli",
+          "short": "Message cok kisa",
+          "long": "Message cok uzun (en fazla 500 karekter)"
+        }
+      }
+    }
+  }

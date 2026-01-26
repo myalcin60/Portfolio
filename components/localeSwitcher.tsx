@@ -5,7 +5,6 @@ import {usePathname, useRouter} from "@/i18n/navigation";
 import {Box, FormControl, MenuItem, Select} from "@mui/material";
 import "flag-icons/css/flag-icons.min.css";
 
-
 export default function LocaleSwitcher(){
     const theme =useTheme();
     const locale =useLocale();

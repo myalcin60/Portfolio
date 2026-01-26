@@ -28,15 +28,15 @@ export default function Navbar() {
     const [drawerOpen, setDrawerOpen] = useState(false);
     const toggleDrawer = () => setDrawerOpen(!drawerOpen);
     const theme = useTheme();
-    const message = useTranslations('')
+    const message = useTranslations('navbar')
 
     const pages=[
-        {label: message('navbar.home'), href:"/"},
-        {label: message('navbar.project'), href:"/project"},
-        {label: message('navbar.test'), href:"/testing"},
-        {label: message('navbar.education'), href:"/education"},
-        {label: message('navbar.about'), href:"/about"},
-        {label: message('navbar.contact'), href:"/contact"},
+        {label: message('home'), href:"/"},
+        {label: message('project'), href:"/project"},
+        {label: message('test'), href:"/testing"},
+        {label: message('education'), href:"/education"},
+        {label: message('about'), href:"/about"},
+        {label: message('contact'), href:"/contact"},
     ]
     return (
         <>
@@ -81,8 +81,7 @@ export default function Navbar() {
                                             display: 'flex',
                                             alignItems: 'flex-end',
                                             color: theme.navbar.text
-                                        }}
-                                    >
+                                        }} >
                                         M.YALCIN
                                     </Typography>
                                 </Box>

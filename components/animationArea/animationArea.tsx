@@ -16,7 +16,7 @@ const AnimationArea: React.FC = () => {
                 <FloatingCode
                     delay="slow"
                     sx={{ top: 0, left: 0, color:theme.palette.text.primary, mt: 3 }}  >
-                    const success = true;
+                    Java, PHP, JavaScript
                 </FloatingCode>
                 <FloatingCode
                     delay="medium"
@@ -27,7 +27,7 @@ const AnimationArea: React.FC = () => {
                         backgroundColor: "rgba(168, 85, 247, 0.1)",
                         borderColor: "rgba(192, 132, 252, 0.3)",
                     }} >
-                    function connect() {"{"}
+                    React, Next.js, Node.js
                 </FloatingCode>
                 <FloatingCode
                     delay="fast"
@@ -38,7 +38,7 @@ const AnimationArea: React.FC = () => {
                         backgroundColor: "rgba(34, 197, 94, 0.1)",
                         borderColor: "rgba(74, 222, 128, 0.3)",
                     }}  >
-                    return response;
+                   Cucumber, Selenium, Robot
                 </FloatingCode>
                 <FloatingCode
                     delay="slow"
@@ -49,7 +49,7 @@ const AnimationArea: React.FC = () => {
                         backgroundColor: "rgba(234, 179, 8, 0.1)",
                         borderColor: "rgba(250, 204, 21, 0.3)",
                     }} >
-                    {"}"} -- Let s talk!
+                    Agile, Scrum, Kanban
                 </FloatingCode>
             </Box>
             {/* Geometric Shapes */}

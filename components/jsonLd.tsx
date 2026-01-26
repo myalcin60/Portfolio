@@ -32,7 +32,7 @@ export default function JsonLd({pageKey}: JsonLdProps) {
             description:seoMessages(`description.${pageKey}`),
             knowsAbout: skills
         };
-    }, [seoMessages, seo]);
+    }, [seoMessages, seo, pageKey]);
     useEffect(() => {
         const scriptData = document.getElementById('jsonld')
         if (scriptData) {
