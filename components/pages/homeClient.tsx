@@ -21,7 +21,7 @@ export default function HomeClient() {
                 <Box sx={{
                     display: {xs:"column", md:"flex"},
                     justifyContent: "space-between",
-                    mt:{xs:3, sm:6, md: 8},
+                    mt:{xs:3, sm:6, md: 10},
                     p:1
                 }}>
                     <Box >
@@ -195,9 +195,9 @@ export default function HomeClient() {
                     <Typography variant={'body1'} sx={{textAlign: 'center'}}>
                         {message('contact.description')}
                     </Typography>
-                    <Box sx={{display: 'flex', justifyContent: 'space-around', gap: 2, mt: 5}}>
-                        <Button variant={'btn_1'} href={'/project'}>{message('hero.btn1')}</Button>
-                        <Button variant={'btn_2'} href={'/action.tsx'}>{message('hero.btn2')}</Button>
+                    <Box sx={{display:{xs:'block', sm:'flex'}, justifyContent:'space-around', gap:1, mt:{xs:10, md:15}}}>
+                        <MyProjectBtn />
+                        <GetInTouchBtn/>
                     </Box>
                 </Box>
             </Container>

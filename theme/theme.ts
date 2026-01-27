@@ -102,10 +102,14 @@ export const lightTheme = createTheme({
                         fontWeight:'semibold',
                         fontSize:18,
                         color:CustomColors.text_white,
-                        height:56,
+                        height:48,
                         width:250,
                         border:`1px solid ${CustomColors.orange_light}`,
-                        background:CustomColors.purple
+                        background:CustomColors.purple,
+                        '@media(max-width:500px)':{
+                            width:'100%',
+                            padding:12
+                        }
                     }
                 },
                 {
@@ -114,10 +118,14 @@ export const lightTheme = createTheme({
                         fontWeight:'semibold',
                         fontSize:18,
                         color:CustomColors.bg_main,
-                        height:56,
+                        height:48,
                         width:250,
                         border:`1px solid ${CustomColors.bg_main}`,
-                        background:CustomColors.bg_light
+                        background:CustomColors.bg_light,
+                        '@media(max-width:500px)':{
+                            width:'100%',
+                            padding:12
+                        }
                     }
                 }
             ]
@@ -128,7 +136,7 @@ export const lightTheme = createTheme({
                     props: { variant: 'glowCard' },
                     style: {
                         background:CustomColors.purple,
-                        textAlign:"center",
+                        textAlign:"left",
                         color:CustomColors.text_white,
                         marginTop:30,
                         maxWidth:350,
@@ -137,7 +145,6 @@ export const lightTheme = createTheme({
                         padding: 16,
                         border:`1px solid ${CustomColors.bg_light}`,
                         borderRadius: 12,
-                        cursor: 'pointer',
                         transition: '0.3s',
                         '&:hover': {
                             border:CustomColors.orange_light,
@@ -146,8 +153,9 @@ export const lightTheme = createTheme({
                                 inset 1px 1px 1px  ${CustomColors.orange_dark} ,
                                 `,
                         },
-                        '@media(min-width:500)':{
-
+                        '@media(max-width:500px)':{
+                            minWidth: 260,
+                            padding:12
                         }
                     },
                 },
@@ -173,6 +181,10 @@ export const lightTheme = createTheme({
                                 inset 0px 1px 0px  ${CustomColors.bg_main} ,                            
                                 0 0 2px ${CustomColors.bg_secondary}
                                 `,
+                        '@media(max-width:500px)':{
+                            minWidth:260,
+                            padding:12
+                        }
                     }
                 },
                 {
@@ -182,17 +194,16 @@ export const lightTheme = createTheme({
                         marginTop:30,
                         color:CustomColors.text_white,
                         maxWidth:350,
-                        minWidth: 220,
+                        minWidth: 300,
                         minHeight:150,
                         padding: 32,
                         border:`0px solid ${CustomColors.bg_secondary}`,
                         borderRadius: 12,
-                        cursor: 'pointer',
                         transition: '0.3s',
                         boxShadow: `
                                 inset 0px 4px 0px  ${CustomColors.purple_s}`,
                         '@media(max-width:500px)':{
-                            minWidth:180,
+                            minWidth:260,
                             padding:24
                         }
                     },
@@ -219,7 +230,6 @@ export const lightTheme = createTheme({
                     }
 
                 },
-
             ],
         },
     },
@@ -336,7 +346,6 @@ export const darkTheme = createTheme({
                         padding: 16,
                         border:`1px solid ${CustomColors.bg_secondary}`,
                         borderRadius: 12,
-                        cursor: 'pointer',
                         transition: '0.3s',
                         '&:hover': {
                             border:CustomColors.orange_light,
@@ -385,12 +394,11 @@ export const darkTheme = createTheme({
                         marginTop:30,
                         color:CustomColors.text_white,
                         maxWidth:350,
-                        minWidth: 220,
+                        minWidth: 300,
                         minHeight:150,
                         padding: 32,
                         border:`0px solid ${CustomColors.bg_secondary}`,
                         borderRadius: 12,
-                        cursor: 'pointer',
                         transition: '0.3s',
                         boxShadow: `
                                 inset 0px 4px 0px  ${CustomColors.orange_light}`,
