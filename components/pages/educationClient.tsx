@@ -27,7 +27,9 @@ export default function EducationClient() {
             <JsonLd pageKey={'qa'}/>
             <Container maxWidth="lg">
                 {/*hero*/}
-                <Box sx={{mt: 10}}>
+                <Box sx={{
+                    mt:{xs:3, sm:6, md: 8},
+                    p:1}}>
                     <Typography variant="h1" sx={{mb: 3}}>
                         {message.title}
                     </Typography>
@@ -35,7 +37,7 @@ export default function EducationClient() {
                         {message.description}
                     </Typography>
                 </Box>
-                <Paper variant={'projectCard'} sx={{mt: 3}}>
+                <Paper variant={'projectCard'} sx={{color:'black', fontStyle:'italic', fontSize:16, mt:3}}>
                     {message.text}
                 </Paper>
                 <Paper variant={'glowCard2'} sx={{
@@ -68,7 +70,7 @@ export default function EducationClient() {
                     ))}
                 </Paper>
                 <Paper variant={'glowCard2'} sx={{mt: 3}}>
-                    <Typography variant={'h3'} sx={{mb: 3, pb: 3, borderBottom: 1}}>
+                    <Typography variant={'h2'} sx={{mb: 3, pb: 3, borderBottom: 1}}>
                         {message.educationShape.title}
                     </Typography>
                     <Typography variant={'body1'}>{message.educationShape.text}</Typography>
@@ -88,11 +90,11 @@ export default function EducationClient() {
                         ))}
                     </Box>
                     <Paper variant={'projectCard'} sx={{mt: 3}}>
-                        <Typography>{message.educationShape.quote}</Typography>
+                        <Typography sx={{color:'black', fontStyle:'italic', fontSize:16}}>{message.educationShape.quote}</Typography>
                     </Paper>
                 </Paper>
                 <Paper variant={'glowCard2'} sx={{mt: 3}}>
-                    <Typography variant={'h3'} sx={{mb: 3, pb: 3, borderBottom: 1}}>
+                    <Typography variant={'h2'} sx={{mb: 3, pb: 3, borderBottom: 1}}>
                         {message.teaching.title}
                     </Typography>
                     {message.teaching.items.map((item: CategoryType, index: number) => (
@@ -118,7 +120,7 @@ export default function EducationClient() {
                     ))}
                 </Paper>
                 <Paper variant={'glowCard2'} sx={{mt: 3}}>
-                    <Typography variant={'h3'} sx={{mb: 3, pb: 3, borderBottom: 1}}>
+                    <Typography variant={'h2'} sx={{mb: 3, pb: 3, borderBottom: 1}}>
                         {message.knowledge.title}
                     </Typography>
                     <Typography variant={'body1'}>{message.knowledge.text}</Typography>
@@ -127,16 +129,16 @@ export default function EducationClient() {
                             <li key={index}>{item}</li>
                         ))}
                     </ul>
-                    <Paper variant={'projectCard'}>
+                    <Paper variant={'projectCard'} sx={{color:'black', fontStyle:'italic', fontSize:16}}>
                         {message.knowledge.quote}
                     </Paper>
                 </Paper>
                 <Paper variant={'glowCard2'} sx={{mt: 3}}>
-                    <Typography variant={'h3'} sx={{mb: 3, pb: 3, borderBottom: 1}}>
+                    <Typography variant={'h2'} sx={{mb: 3, pb: 3, borderBottom: 1}}>
                         {message.cta.title}
                     </Typography>
                     <Typography variant={'body1'}>{message.cta.text}</Typography>
-                   <Box sx={{display:'flex', justifyContent:'space-around', gap:1, mt:5}}>
+                    <Box sx={{display:{xs:'block', sm:'flex'}, justifyContent:'space-around', gap:1, mt:{xs:10, md:15}}}>
                        <MyProjectBtn/>
                        <GetInTouchBtn/>
                    </Box>

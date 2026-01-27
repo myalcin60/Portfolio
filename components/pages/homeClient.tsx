@@ -21,10 +21,8 @@ export default function HomeClient() {
                 <Box sx={{
                     display: {xs:"column", md:"flex"},
                     justifyContent: "space-between",
-                    mt: 10,
-                    pl:{xs:4, md:1},
-                    pr:{xs:4, md:1}
-
+                    mt:{xs:3, sm:6, md: 8},
+                    p:1
                 }}>
                     <Box >
                         <Typography variant={'h1'} sx={{mt: 3, maxWidth:{sm:"auto", md:"600px"}}}>
@@ -47,9 +45,9 @@ export default function HomeClient() {
                                 )
                             })}
                         </Typography>
-                        <Box sx={{display: 'flex', gap: 2, mt: 15}}>
-                          <MyProjectBtn/>
-                            <GetInTouchBtn/>
+                        <Box sx={{display:{xs:'block', sm:'flex'}, justifyContent:'space-around', gap:1, mt:{xs:10, md:15}}}>
+                          <MyProjectBtn />
+                          <GetInTouchBtn/>
                         </Box>
                     </Box>
                     <AnimationArea/>

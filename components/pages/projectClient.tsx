@@ -13,7 +13,9 @@ export default function ProjectClient() {
             <JsonLd pageKey={'projects'}/>
             <Container maxWidth="lg">
                 {/*hero*/}
-                <Box sx={{mt: 10}}>
+                <Box sx={{
+                    mt:{xs:3, sm:6, md: 8},
+                    p:1}}>
                     <Typography variant={'h1'} sx={{mb: 5}}>
                         {message.title}
                     </Typography>

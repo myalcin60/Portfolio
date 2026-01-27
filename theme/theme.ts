@@ -66,7 +66,7 @@ export const lightTheme = createTheme({
             color:CustomColors.text_red,
             fontFamily: `var(${imFellFrenchCanon.style.fontFamily}), serif`,
             fontWeight: 400,
-            fontSize: 36,
+            fontSize: 32,
             lineHeight: 1.25,
             '@media (max-width:600px)': {fontSize: '26px'},
         },
@@ -264,7 +264,7 @@ export const darkTheme = createTheme({
             color:CustomColors.orange_light,
             fontFamily: `var(${imFellFrenchCanon.style.fontFamily}), serif`,
             fontWeight: 400,
-            fontSize: 36,
+            fontSize: 32,
             lineHeight: 1.25,
             '@media (max-width:600px)': {fontSize: '26px'},
         },
@@ -327,7 +327,7 @@ export const darkTheme = createTheme({
                     props: { variant: 'glowCard' },
                     style: {
                         fontWeight:200,
-                        textAlign:"center",
+                        textAlign:"left",
                         marginTop:30,
                         color:CustomColors.text_white,
                         maxWidth:350,
@@ -345,6 +345,10 @@ export const darkTheme = createTheme({
                                 inset 1px 1px 1px  ${CustomColors.orange_light} ,
                                 `,
                         },
+                        '@media(max-width:500px)':{
+                            minWidth:260,
+                            padding:12
+                        }
                     },
                 },
                 {
@@ -369,6 +373,10 @@ export const darkTheme = createTheme({
                                 inset 0px 1px 0px  ${CustomColors.bg_secondary} ,                            
                                 0 0 2px ${CustomColors.bg_secondary}
                                 `,
+                        '@media(max-width:500px)':{
+                            minWidth:260,
+                            padding:12
+                        }
                     }
                 },
                 {
@@ -387,7 +395,7 @@ export const darkTheme = createTheme({
                         boxShadow: `
                                 inset 0px 4px 0px  ${CustomColors.orange_light}`,
                         '@media(max-width:500px)':{
-                            minWidth:180,
+                            minWidth:260,
                             padding:24
                         }
 

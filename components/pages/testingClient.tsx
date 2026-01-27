@@ -20,7 +20,9 @@ export default function TestingClient() {
             <JsonLd pageKey={'qa'}/>
             <Container maxWidth="lg">
                 {/*hero*/}
-                <Box sx={{mt: 10}}>
+                <Box sx={{
+                    mt:{xs:3, sm:6, md: 8},
+                    p:1}}>
                     <Typography variant="h1" sx={{mb: 3}}>
                         {message.title}
                     </Typography>
@@ -111,7 +113,7 @@ export default function TestingClient() {
                         </Paper>
                     ))
                 }
-                <Box sx={{display:'flex', justifyContent:'space-around', gap:1, mt:5}}>
+                <Box sx={{display:{xs:'block', sm:'flex'}, justifyContent:'space-around', gap:1, mt:{xs:10, md:15}}}>
                     <MyProjectBtn/>
                     <GetInTouchBtn/>
                 </Box>

@@ -5,6 +5,6 @@ export default function MyProjectBtn() {
     const message = useTranslations('home')
 
     return (
-        <Button variant={'btn_1'} href={'/project'}>{message('hero.btn1')}</Button>
+        <Button variant={'btn_1'} href={'/project'} sx={{mb:1}}>{message('hero.btn1')}</Button>
     )
 }

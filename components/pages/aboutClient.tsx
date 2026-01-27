@@ -23,12 +23,14 @@ export default function AboutClient() {
             <JsonLd pageKey={'about'}/>
             <Container maxWidth="lg">
                 {/*hero*/}
-                <Box sx={{mt: 10}}>
-                    <Typography variant={'h3'} sx={{mb:3}}> {message.title}</Typography>
+                <Box sx={{
+                    mt:{xs:3, sm:6, md: 8},
+                    p:1}}>
+                    <Typography variant={'h1'} sx={{mb:3}}> {message.title}</Typography>
                     <Typography variant={'body1'}>{message.text}</Typography>
                 </Box>
                 <Paper variant={'glowCard2'}>
-                    <Typography variant={'h3'} sx={{mb:3}}> {message.mindset.title}</Typography>
+                    <Typography variant={'h2'} sx={{mb:3}}> {message.mindset.title}</Typography>
                     <Typography variant={'body1'}>{message.mindset.text}</Typography>
                     <ul>
                         {message.mindset.items.map((item:string, i:number) => (
@@ -46,7 +48,7 @@ export default function AboutClient() {
                 </Paper>
                 {message.sections.map((item:Props, i:number) => (
                     <Paper variant={'glowCard2'} key={i}>
-                        <Typography variant={'h3'} sx={{mb:3}}> {item.title}</Typography>
+                        <Typography variant={'h2'} sx={{mb:3}}> {item.title}</Typography>
                         <Typography variant={'body1'}>{item.description}</Typography>
                         <ul>
                             {item.items.map((item:string, i:number) => (
@@ -54,15 +56,15 @@ export default function AboutClient() {
                             ))}
                         </ul>
                         <Typography>{item.additional}</Typography>
-                        <Paper variant={'projectCard'} sx={{fontStyle:'italic', fontSize:22}}>
+                        <Paper variant={'projectCard'} sx={{fontStyle:'italic', fontSize:20, mt:3}}>
                             {item.quote}
                         </Paper>
                     </Paper>
                 ))}
                 <Paper variant={'glowCard2'} sx={{textAlign:'center'}}>
-                    <Typography variant={'h3'} sx={{mb:1}}>{message.cta.title}</Typography>
+                    <Typography variant={'h2'} sx={{mb:1}}>{message.cta.title}</Typography>
                     <Typography variant={'body1'}>{message.cta.description}</Typography>
-                    <Box sx={{display:'flex', justifyContent:'space-around', gap:1, mt:5}}>
+                    <Box sx={{display:{xs:'block', sm:'flex'}, justifyContent:'space-around', gap:1, mt:{xs:10, md:15}}}>
                         <MyProjectBtn/>
                         <GetInTouchBtn/>
                     </Box>

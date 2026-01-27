@@ -61,14 +61,14 @@ export default function ProjectCard(){
                             ))}
                         </Box>
                     </Box>
-                    <Paper variant={'projectCard'} sx={{mt:4}}>
-                        <Typography variant={'h3'}>
-                            {p.deployment}
-                        </Typography>
-                        <Typography>
-                            {p.platform}
-                        </Typography>
-                    </Paper>
+                    {/*<Paper variant={'projectCard'} sx={{mt:4}}>*/}
+                    {/*    <Typography variant={'h3'}>*/}
+                    {/*        {p.deployment}*/}
+                    {/*    </Typography>*/}
+                    {/*    <Typography>*/}
+                    {/*        {p.platform}*/}
+                    {/*    </Typography>*/}
+                    {/*</Paper>*/}
                 </Paper>
             ))}
 
