@@ -3,9 +3,9 @@
   "robots": "index, follow",
   "@context": "https://schema.org",
   "@type": "Person",
-  "url": "https://portfolio.musayalcin.dev",
-  "linkedin":  "https://www.linkedin.com/in/musayalcin",
-  "malt" : "https://www.malt.fr/profile/musayalcin",
+  "url": "https://mydevtest.netlify.app",
+  "linkedin":  "https://www.linkedin.com/in/musa-yalcin",
+  "malt" : "https://www.malt.fr/profile/yalcinmusa",
   "worksFor": {
     "@type": "Organization",
     "name": "Freelance Software Developer"

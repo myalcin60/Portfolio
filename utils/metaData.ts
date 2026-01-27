@@ -18,5 +18,11 @@ export async function seoMetadata(locale:string, pages:string) {
             locale: seo.locale,
             type: 'website',
         },
+        additionalMetaTags: [
+            {
+                name: 'google-site-verification',
+                content: 'google67d24d0a60421fad'
+            }
+        ],
     };
 }
