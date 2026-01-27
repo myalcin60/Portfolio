@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://mydevtest.netlify.app/
+
+# Sitemaps
+Sitemap: https://mydevtest.netlify.app/sitemap.xml
