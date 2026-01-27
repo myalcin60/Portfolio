@@ -1,0 +1,140 @@
+{
+  "title": "Education & Teaching Background",
+  "description": "My professional background is rooted in education and mathematics, which strongly influences how I approach software development and quality assurance today.",
+  "text": "Before working in software, I spent several years in the education sector as a mathematics teacher, school administrator, and education coach in private institutions.",
+  "experiences": [
+    {
+      "title": "\uD83D\uDCD0 Mathematics Teacher",
+      "text": "I worked closely with students to develop:",
+      "skills": [
+        "Analytical and logical thinking",
+        "Structured problem-solving skills",
+        "Attention to detail and accuracy"
+      ],
+      "impact": "Teaching mathematics required breaking down complex concepts into clear, understandable steps."
+    },
+    {
+      "title": "\uD83C\uDFEB School Administration",
+      "text": "In a private school environment, I took on administrative and managerial responsibilities:",
+      "skills": [
+        "Planning and organizing academic processes",
+        "Coordinating teachers and students",
+        "Monitoring performance and outcomes",
+        "Managing responsibilities under operational constraints"
+      ],
+      "impact": ""
+    },
+    {
+      "title": "\uD83C\uDFAF Education Coaching",
+      "text": "I worked as an education coach, supporting students in:",
+      "skills": [
+        "Academic planning",
+        "Goal setting",
+        "Progress tracking",
+        "Motivation and performance improvement"
+      ],
+      "impact": ""
+    }
+  ],
+  "educationShape": {
+    "title": "\uD83E\uDDE0 How Education Shapes My Work in Software",
+    "text": "My educational background directly impacts how I work today:",
+    "skills": [
+      {
+        "title": "Clear Communication",
+        "text": "Explaining test results, bugs, and technical concepts clearly to both technical and non-technical stakeholders"
+      },
+      {
+        "title": "Structured Thinking",
+        "text": "Designing test cases and development flows logically, breaking complex problems into manageable parts"
+      },
+      {
+        "title": "Quality Focus",
+        "text": "Verifying results instead of assuming correctness, just like validating student understanding"
+      },
+      {
+        "title": "Collaboration",
+        "text": "Working effectively with diverse profiles and roles, understanding different perspectives and needs"
+      }
+    ],
+    "quote": "In both teaching and software, success depends on clarity, structure, and trust."
+  },
+  "teaching": {
+    "title": "From Teaching to Technology",
+    "items": [
+      {
+        "from": {
+          "title": "Breaking down complex math concepts",
+          "text": "Simplifying abstract topics for student understanding"
+        },
+        "to": {
+          "title": "Analyzing systems and writing test scenarios",
+          "text": "Decomposing software into testable components"
+        }
+      },
+      {
+        "from": {
+          "title": "Listening to student needs",
+          "text": "Understanding individual challenges and providing guidance"
+        },
+        "to": {
+          "title": "Team collaboration and mentoring",
+          "text": "Supporting colleagues and documenting solutions"
+        }
+      },
+      {
+        "from": {
+          "title": "Monitoring student progress",
+          "text": "Tracking performance and identifying areas for improvement"
+        },
+        "to": {
+          "title": "Quality assurance and testing",
+          "text": "Tracking bugs, validating fixes, ensuring quality"
+        }
+      }
+    ]
+  },
+  "knowledge": {
+    "title": "\uD83D\uDCD8 Continuous Learning & Knowledge Sharing",
+    "text": "Education did not stop when I transitioned into software. I continue to:",
+    "skills": [
+      "Learn new tools and technologies,",
+      "Document what I build and test,",
+      "Share knowledge through explanations and project case studies."
+    ],
+    "quote": "I believe strong professionals are not only skilled, but also capable of teaching and sharing what they know."
+  },
+  "background": {
+    "title": "\uD83C\uDF93 Why This Background Matters",
+    "text": "My experience in education allows me to:",
+    "skills": [
+      "Bridge communication between technical and non-technical stakeholders,",
+      "Contribute to onboarding and knowledge transfer,",
+      "Support teams with a structured and human-centered approach."
+    ],
+    "quote": "This combination of education, quality assurance, and development defines my professional identity."
+  },
+  "moving": {
+    "title": "\uD83D\uDE80 Moving Forward",
+    "subTitle": "Today, I bring together:",
+    "skills": [
+      {
+        "title": "\uD83D\uDCD0 Mathematics & Education",
+        "text": "A solid foundation in structured thinking and communication"
+      },
+      {
+        "title": "\uD83E\uDDEA QA & Testing",
+        "text": "Hands-on experience in quality assurance and test automation"
+      },
+      {
+        "title": "\uD83D\uDCBB Full-Stack Development",
+        "text": "Growing expertise in building complete applications"
+      }
+    ],
+    "quote": "This unique background enables me to contribute not only by writing or testing software, but also by improving how teams think, communicate, and deliver quality products."
+  },
+  "cta": {
+    "title": "Learn More About My Work",
+    "text": "Explore how my educational background translates into practical software development and testing skills."
+  }
+}

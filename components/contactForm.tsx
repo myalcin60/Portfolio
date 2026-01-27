@@ -13,7 +13,6 @@ export default function ContactForm() {
         success: false,
         errors: {}
     });
-
     return (
         <Paper variant="glowCard2" sx={{minWidth: 500, gap:5}}>
             <Typography variant="h2" sx={{ mb: 3 }}>

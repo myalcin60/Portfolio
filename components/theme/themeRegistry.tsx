@@ -1,5 +1,4 @@
 'use client';
-
 import * as React from 'react';
 import { useServerInsertedHTML } from 'next/navigation';
 import {CssBaseline, ThemeProvider} from '@mui/material';

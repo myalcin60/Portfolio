@@ -1,21 +1,16 @@
-// components/AnimationArea/AnimationArea.styles.ts
 import { Box, BoxProps } from "@mui/material";
 import { styled } from "@mui/material/styles";
 import { animationTheme } from "@/theme/animationTheme";
-
 // Custom Types
 export interface FloatingCodeProps extends BoxProps {
     delay?: "slow" | "medium" | "fast";
 }
-
 export interface GeometricShapeProps extends BoxProps {
     variant?: "outer" | "middle" | "inner";
 }
-
 export interface ConnectingDotProps extends BoxProps {
     delay?: string;
 }
-
 // Floating Code
 export const FloatingCode = styled(Box, {
     shouldForwardProp: (prop) => prop !== "delay",
@@ -39,7 +34,6 @@ export const FloatingCode = styled(Box, {
     ease-in-out infinite
   `,
 }));
-
 // Geometric Shapes
 export const GeometricShape = styled(Box, {
     shouldForwardProp: (prop) => prop !== "variant",
@@ -66,7 +60,6 @@ export const GeometricShape = styled(Box, {
         fontSize: "2rem",
     }),
 }));
-
 // Connecting Dots
 export const ConnectingDot = styled(Box, {
     shouldForwardProp: (prop) => prop !== "delay",

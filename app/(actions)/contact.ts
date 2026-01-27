@@ -17,7 +17,6 @@ export async function sendContactForm(prevState, formData) {
     }
     // Rate limit
     const ip = prevState?.req?.headers?.get("x-forwarded-for") || "unknown";
-
     if (checkRateLimit(ip)) {
         return {
             success: false,

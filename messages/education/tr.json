@@ -1,0 +1,140 @@
+{
+  "title": "Eğitim ve Öğretim Geçmişi",
+  "description": "Profesyonel geçmişim eğitim ve matematik temeline dayanıyor ve bu durum bugün yazılım geliştirme ve kalite güvencesine yaklaşımımı güçlü şekilde etkiliyor.",
+  "text": "Yazılım alanına geçmeden önce, özel kurumlarda matematik öğretmeni, okul yöneticisi ve eğitim koçu olarak eğitim sektöründe birkaç yıl çalıştım.",
+  "experiences": [
+    {
+      "title": "📘 Matematik Öğretmeni",
+      "text": "Öğrencilerle yakın çalışarak şu becerilerin gelişmesine katkı sağladım:",
+      "skills": [
+        "Analitik ve mantıksal düşünme",
+        "Yapılandırılmış problem çözme becerileri",
+        "Detaylara dikkat ve doğruluk"
+      ],
+      "impact": "Matematik öğretmek, karmaşık kavramları açık ve anlaşılır adımlara bölmeyi gerektiriyordu."
+    },
+    {
+      "title": "🏫 Okul Yönetimi",
+      "text": "Özel okul ortamında idari ve yönetsel sorumluluklar üstlendim:",
+      "skills": [
+        "Akademik süreçlerin planlanması ve organize edilmesi",
+        "Öğretmen ve öğrencilerin koordinasyonu",
+        "Performans ve sonuçların izlenmesi",
+        "Operasyonel kısıtlar altında sorumluluk yönetimi"
+      ],
+      "impact": ""
+    },
+    {
+      "title": "🎯 Eğitim Koçluğu",
+      "text": "Eğitim koçu olarak öğrencileri şu konularda destekledim:",
+      "skills": [
+        "Akademik planlama",
+        "Hedef belirleme",
+        "İlerleme takibi",
+        "Motivasyon ve performans geliştirme"
+      ],
+      "impact": ""
+    }
+  ],
+  "educationShape": {
+    "title": "🧠 Eğitimin Yazılım Çalışmama Etkisi",
+    "text": "Eğitim geçmişim bugün çalışma şeklimi doğrudan etkiliyor:",
+    "skills": [
+      {
+        "title": "Açık İletişim",
+        "text": "Test sonuçlarını, hataları ve teknik kavramları teknik ve teknik olmayan paydaşlara net şekilde açıklamak"
+      },
+      {
+        "title": "Yapılandırılmış Düşünme",
+        "text": "Test senaryolarını ve geliştirme akışlarını mantıklı şekilde tasarlamak, karmaşık problemleri yönetilebilir parçalara ayırmak"
+      },
+      {
+        "title": "Kalite Odaklılık",
+        "text": "Doğruluğu varsaymak yerine sonuçları doğrulamak; tıpkı öğrencinin konuyu anlayıp anlamadığını kontrol etmek gibi"
+      },
+      {
+        "title": "İş Birliği",
+        "text": "Farklı profillerle etkili şekilde çalışmak, farklı bakış açılarını ve ihtiyaçları anlamak"
+      }
+    ],
+    "quote": "Hem öğretimde hem yazılımda başarı, açıklık, yapı ve güvene dayanır."
+  },
+  "teaching": {
+    "title": "Öğretmenlikten Teknolojiye",
+    "items": [
+      {
+        "from": {
+          "title": "Karmaşık matematik kavramlarını açıklamak",
+          "text": "Soyut konuları öğrencilerin anlayabileceği şekilde sadeleştirmek"
+        },
+        "to": {
+          "title": "Sistem analizi ve test senaryoları yazma",
+          "text": "Yazılımı test edilebilir bileşenlere ayırmak"
+        }
+      },
+      {
+        "from": {
+          "title": "Öğrenci ihtiyaçlarını dinlemek",
+          "text": "Bireysel zorlukları anlamak ve rehberlik sağlamak"
+        },
+        "to": {
+          "title": "Ekip işbirliği ve mentorluk",
+          "text": "Çalışma arkadaşlarını desteklemek ve çözümleri dokümante etmek"
+        }
+      },
+      {
+        "from": {
+          "title": "Öğrenci gelişimini takip etmek",
+          "text": "Performansı izlemek ve gelişim alanlarını belirlemek"
+        },
+        "to": {
+          "title": "Kalite güvencesi ve test",
+          "text": "Hataları takip etmek, düzeltmeleri doğrulamak ve kaliteyi sağlamak"
+        }
+      }
+    ]
+  },
+    "knowledge": {
+      "title": "📘 Sürekli Öğrenme & Bilgi Paylaşımı",
+      "text": "Yazılıma geçiş yaptıktan sonra eğitim durmadı. Hâlâ:",
+      "skills": [
+        "Yeni araçlar ve teknolojiler öğreniyorum,",
+        "Geliştirdiğim ve test ettiğim şeyleri dokümante ediyorum,",
+        "Bilgiyi açıklamalar ve proje vaka çalışmalarıyla paylaşıyorum."
+      ],
+      "quote": "Güçlü profesyoneller sadece yetenekli değil, aynı zamanda bildiklerini öğretebilen kişilerdir."
+    },
+    "background": {
+      "title": "🎓 Bu Geçmiş Neden Önemli",
+      "text": "Eğitim deneyimim bana şu katkıları sağlıyor:",
+      "skills": [
+        "Teknik ve teknik olmayan paydaşlar arasında iletişim köprüsü kurmak,",
+        "Onboarding ve bilgi aktarımına katkı sağlamak,",
+        "Ekipleri yapılandırılmış ve insan odaklı bir yaklaşımla desteklemek"
+      ],
+      "quote": "Eğitim, kalite güvencesi ve yazılım geliştirme birleşimi profesyonel kimliğimi oluşturuyor."
+    },
+    "moving": {
+      "title": "🚀 İleriye Bakış",
+      "subTitle": "Bugün bir araya getirdiğim şeyler:",
+      "skills": [
+        {
+          "title": "📘 Matematik & Eğitim",
+          "text": "Yapılandırılmış düşünme ve iletişimde güçlü bir temel"
+        },
+        {
+          "title": "🧪 QA & Test",
+          "text": "Kalite güvencesi ve test otomasyonunda pratik deneyim"
+        },
+        {
+          "title": "💻 Full‑Stack Geliştirme",
+          "text": "Tam kapsamlı uygulamalar geliştirme konusunda artan uzmanlık"
+        }
+      ],
+      "quote": "Bu benzersiz geçmiş, sadece yazılım yazmama veya test etmeme değil, ekiplerin düşünme, iletişim kurma ve kaliteli ürünler teslim etme biçimini geliştirmeme de olanak tanıyor."
+    },
+    "cta": {
+      "title": "Çalışmalarımı İnceleyin",
+      "text": "Eğitim geçmişimin yazılım geliştirme ve test becerilerine nasıl dönüştüğünü keşfedin."
+    }
+  }

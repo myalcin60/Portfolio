@@ -1,0 +1,86 @@
+{
+    "hero": {
+      "greeting": "Full‑stack Developer & QA Engineer",
+      "title": "I build & test digital solutions.",
+      "text": "<bold>Full‑stack developer</bold> with a <bold>QA mindset</bold> and <bold>mathematics</bold> background. I create robust, well‑tested applications where clean code meets seamless user experience.",
+      "btn1": "Explore My Projects",
+      "btn2": "Get In Touch"
+    },
+    "whatIDo": {
+      "title": "What I Do",
+      "build": {
+        "title": "⚡ Build",
+        "description": "I develop clean, scalable applications using modern frameworks and best practices. From concept to deployment, every feature is crafted with precision."
+      },
+      "test": {
+        "title": "\uD83D\uDD0D Test",
+        "description": "Quality assurance isn't an afterthought—it's integrated into my development process. I ensure reliability through comprehensive testing strategies."
+      },
+      "optimize": {
+        "title": "\uD83D\uDCCA Optimize",
+        "description": "With a background in mathematics, I approach problems analytically, optimizing performance and creating efficient, maintainable solutions."
+      }
+    },
+    "approach": {
+      "title": "My Approach",
+      "coverage": {
+        "number": "100%",
+        "label": "Test Coverage Goal"
+      },
+      "experience": {
+        "number": "3+",
+        "label": "Years Experience"
+      },
+      "problems": {
+        "number": "∞",
+        "label": "Problems Solved"
+      },
+      "description": "I believe great software is born from the intersection of solid engineering, rigorous testing, and user-centric design. My mathematical background gives me a unique perspective on problem-solving, allowing me to tackle complex challenges with analytical precision."
+    },
+    "contact": {
+      "title": "Let's Connect",
+      "description": "I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Let's build something amazing together.",
+      "cta": "Say Hello"
+    },
+    "skills": {
+      "title": "💻 Technical Stack",
+      "frontend": "Frontend",
+      "fr_skills": [
+        "React",
+        "Next.js",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Bootstrap",
+        "MUI (Material UI)"
+      ],
+      "backend": "Backend",
+      "bc_skills": [
+        "Java",
+        "PHP",
+        "Node.js",
+        "REST API"
+      ],
+      "database": "Database",
+      "db_skills": [
+        "MySQL",
+        "MongoDB"
+      ],
+      "testing": "Testing",
+      "test_skills": [
+        "Cucumber",
+        "Selenium",
+        "Robot Framework",
+        "TestNG",
+        "JUnit",
+        "Postman"
+      ],
+      "methodology": "Methodologies & Tools",
+      "m_skills": [
+        "Agile Scrum",
+        "Kanban",
+        "Trello"
+      ]
+    }
+  }
+

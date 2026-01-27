@@ -1,0 +1,51 @@
+ {
+    "availability": {
+      "title": "\uD83D\uDD52 Availability",
+      "text": "I am currently open to:",
+      "item1": "Junior Full-Stack Developer roles",
+      "item2": "QA / Software Tester positions",
+      "item3" : "Hybrid Developer–QA roles",
+      "description": "I'm particularly interested in environments that value code quality, testing, and clear communication."
+    },
+    "title": "\uD83D\uDCEC Let's Get in Touch",
+    "text":"If you'd like to discuss a junior full-stack, QA / testing, or hybrid role — or simply talk about projects, quality, or learning — feel free to reach out.",
+    "slogan": "\uD83D\uDE80 Good software starts with good communication.\u2028Let's build — and test — something meaningful together.",
+    "email" : "Email",
+    "linkedln" : "Linkedln",
+    "github": "github",
+    "form": {
+      "title": "\uD83D\uDCDD Send Me a Message",
+      "name": "Your Name",
+      "mail": "Your Email",
+      "subject": "Subject",
+      "message": "Message",
+      "sending": "Sending",
+      "send": "Send",
+      "success": "Your message has been successfully sent.",
+      "errors": {
+        "error": "Email could not be sent",
+        "rateLimit": "You have made too many requests",
+        "name": {
+          "name": "Name is required",
+          "short": "Name is too short",
+          "long": "Name is too long"
+        },
+        "mail": {
+          "mail": "Email is required",
+          "short": "Invalid email",
+          "long": "Email is too short"
+        },
+        "subject": {
+          "header": "Invalid character detected",
+          "subject": "Subject is required",
+          "short": "Subject is too short",
+          "long": "Subject is too long"
+        },
+        "message": {
+          "message": "Message is required",
+          "short": "Message is too short",
+          "long": "Message is too long (maximum 500 characters)"
+        }
+      }
+    }
+  }

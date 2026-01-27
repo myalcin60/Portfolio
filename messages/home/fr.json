@@ -1,0 +1,86 @@
+ {
+    "hero": {
+      "greeting": "Développeur Full‑stack & Ingénieur QA",
+      "title": "Je conçois et teste des solutions digitales.",
+      "text": "<bold>Développeur full‑stack</bold> avec une <bold>approche orientée QA</bold> et une formation en <bold>mathématiques</bold>. Je crée des applications robustes et bien testées, où un code propre rencontre une expérience utilisateur fluide.",
+      "btn1": "Découvrir mes projets",
+      "btn2": "Me contacter"
+    },
+    "whatIDo": {
+      "title": "Ce que je fais",
+      "build": {
+        "title": "⚡ Développer",
+        "description": "Je développe des applications propres et évolutives en utilisant des frameworks modernes et les meilleures pratiques. De l’idée au déploiement, chaque fonctionnalité est conçue avec précision."
+      },
+      "test": {
+        "title": "\uD83D\uDD0D Tester",
+        "description": "L’assurance qualité n’est pas une étape finale — elle fait partie intégrante de mon processus de développement. J’assure la fiabilité grâce à des stratégies de tests complètes."
+      },
+      "optimize": {
+        "title": "\uD83D\uDCCA Optimiser",
+        "description": "Grâce à ma formation en mathématiques, j’aborde les problèmes de manière analytique, en optimisant les performances et en créant des solutions efficaces et maintenables."
+      }
+    },
+    "approach": {
+      "title": "Mon approche",
+      "coverage": {
+        "number": "100 %",
+        "label": "Objectif de couverture de tests"
+      },
+      "experience": {
+        "number": "3+",
+        "label": "Années d’expérience"
+      },
+      "problems": {
+        "number": "∞",
+        "label": "Problèmes résolus"
+      },
+      "description": "Je crois qu’un excellent logiciel naît à l’intersection d’une ingénierie solide, de tests rigoureux et d’une conception centrée utilisateur. Ma formation mathématique m’apporte une perspective unique sur la résolution de problèmes, me permettant d’aborder des défis complexes avec une précision analytique."
+    },
+    "contact": {
+      "title": "Restons en contact",
+      "description": "Je suis toujours ouvert à discuter de nouveaux projets, d’idées créatives ou d’opportunités de collaboration. Construisons quelque chose d’exceptionnel ensemble.",
+      "cta": "Dire bonjour"
+    },
+    "skills": {
+      "title": "💻 Stack technique",
+      "frontend": "Frontend",
+      "fr_skills": [
+        "React",
+        "Next.js",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Bootstrap",
+        "MUI (Material UI)"
+      ],
+      "backend": "Backend",
+      "bc_skills": [
+        "Java",
+        "PHP",
+        "Node.js",
+        "API Rest"
+      ],
+      "database": "Base de données",
+      "db_skills": [
+        "MySQL",
+        "MongoDB"
+      ],
+      "testing": "Tests",
+      "test_skills": [
+        "Cucumber",
+        "Selenium",
+        "Robot Framework",
+        "TestNG",
+        "JUnit",
+        "Postman"
+      ],
+      "methodology": "Méthodologies & Outils",
+      "m_skills": [
+        "Agile Scrum",
+        "Kanban",
+        "Trello"
+      ]
+    }
+  }
+

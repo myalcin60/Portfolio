@@ -1,0 +1,51 @@
+{
+    "availability": {
+      "title": "🕒 Disponibilité",
+      "text": "Je suis actuellement ouvert à :",
+      "item1": "Des postes de Développeur Full-Stack Junior",
+      "item2": "Des postes de QA / Testeur Logiciel",
+      "item3": "Des rôles hybrides Développeur–QA",
+      "description": "Je suis particulièrement intéressé par les environnements qui valorisent la qualité du code, les tests et une communication claire."
+    },
+    "title": "📬 Entrons en Contact",
+    "text": "Si vous souhaitez discuter d’un poste junior full‑stack, QA / testing ou hybride — ou simplement parler de projets, de qualité ou d’apprentissage — n’hésitez pas à me contacter.",
+    "slogan": "🚀 Un bon logiciel commence par une bonne communication. Construisons — et testons — quelque chose de significatif ensemble.",
+    "email": "Email",
+    "linkedln": "LinkedIn",
+    "github": "GitHub",
+    "form": {
+      "title": "📝 Envoyez‑moi un Message",
+      "name": "Votre Nom",
+      "mail": "Votre Email",
+      "subject": "Sujet",
+      "message": "Message",
+      "sending": "Envoi en cours",
+      "send": "Envoyer",
+      "success": "Votre message a été envoyé avec succès.",
+      "errors": {
+        "error": "L’e‑mail n’a pas pu être envoyé",
+        "rateLimit": "Vous avez effectué trop de demandes",
+        "name": {
+          "name": "Le nom est requis",
+          "short": "Le nom est trop court",
+          "long": "Le nom est trop long"
+        },
+        "mail": {
+          "mail": "L’e‑mail est requis",
+          "short": "E‑mail invalide",
+          "long": "L’e‑mail est trop court"
+        },
+        "subject": {
+          "header": "Caractère invalide détecté",
+          "subject": "Le sujet est requis",
+          "short": "Le sujet est trop court",
+          "long": "Le sujet est trop long"
+        },
+        "message": {
+          "message": "Le message est requis",
+          "short": "Le message est trop court",
+          "long": "Le message est trop long (maximum 500 caractères)"
+        }
+      }
+    }
+  }

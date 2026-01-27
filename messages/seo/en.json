@@ -1,0 +1,53 @@
+{"siteName": "My codeur",
+  "locale": "en_EN",
+  "robots": "index, follow",
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "url": "https://portfolio.musayalcin.dev",
+  "linkedin":  "https://www.linkedin.com/in/musayalcin",
+  "malt" : "https://www.malt.fr/profile/musayalcin",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Freelance Software Developer"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Martigues",
+    "addressRegion": "Provence-Alpes-Côte d’Azur",
+    "addressCountry": "FR"
+  },
+  "name": "Musa Yalçın",
+  "jobTitle": "Full-Stack Web & Mobile Developer, QA Engineer, Mathematician",
+
+  "title": {
+    "home": "Full-Stack Web & Mobile Developer",
+    "qa": "Quality Assurance (QA) Engineer",
+    "about": "Developer with a Mathematical Approach",
+    "projects": "Projects & Case Studies",
+    "education": "Education & Academic Background",
+    "contact": "Contact | Let’s Work Together"
+  },
+
+  "description": {
+    "home": "I build modern web and mobile applications using Next.js, React, Node.js, PHP, and Java, with strong expertise in quality assurance.",
+    "qa": "Experienced in functional and automated testing, ensuring reliable deliveries through Cucumber and manual test scenarios.",
+    "about": "With a teaching background, I clearly explain technical concepts and design robust software architectures based on mathematical logic.",
+    "projects": "Explore a selection of web and software projects showcasing my expertise in full-stack development, software quality, and modern architecture.",
+    "education": "My academic background and training in mathematics, computer science, and quality assurance, focused on rigor and analytical thinking.",
+    "contact": "Have a project or collaboration in mind? Get in touch to discuss your ideas and build a solution tailored to your needs."
+  },
+
+
+  "skills": {
+    "general": [
+      "Full-stack web development",
+      "Mobile application development",
+      "Expertise in Next.js and React"
+    ],
+    "qa": [
+      "Functional testing",
+      "Automated testing",
+      "BDD with Cucumber"
+    ]
+  }
+}

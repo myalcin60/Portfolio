@@ -1,0 +1,127 @@
+{
+  "title": "Testing & Quality Assurance",
+  "description": "I work as a QA / Software Tester with a strong development background. My goal is to ensure software quality through manual testing, test automation, and performance testing, while collaborating closely with developers.",
+  "titleQa": "🧠 QA & Testing Mindset",
+  "text": "I approach testing as a structured and analytical process:",
+  "points": [
+    "Understanding requirements and user expectations,",
+    "Translating them into test scenarios and test cases,",
+    "Identifying risks, edge cases, and failure points,",
+    "And ensuring issues are clearly documented and tracked."
+  ],
+  "additional": "With my background in development and mathematics, I naturally focus on logic, consistency, and verification.",
+  "titleTypes": "🧪 Types of Testing I Perform",
+  "categorieType": [
+    {
+      "title": " 🔹 Manual Testing",
+      "items": [
+        "Functional testing (UI & workflows)",
+        "Regression testing",
+        "Exploratory testing",
+        "Cross‑browser testing"
+      ]
+    },
+    {
+      "title": "🔹 Test Automation",
+      "items": [
+        "UI test automation for web applications",
+        "Scenario‑based test automation",
+        "Regression test automation"
+      ]
+    },
+    {
+      "title": "🔹 API Testing",
+      "items": [
+        "Functional API testing",
+        "Request/response validation",
+        "Authorization and error‑handling checks"
+      ]
+    },
+    {
+      "title": "🔹 Performance & Load Testing",
+      "items": [
+        "Load and stress testing",
+        "Performance bottleneck analysis",
+        "Response time and stability validation"
+      ]
+    }
+  ],
+  "titleTool": "🛠️ Tools & Technologies",
+  "categorieTool": [
+    {
+      "title": "🔧 Automation & Functional Testing",
+      "items": ["Selenium", "Cucumber (BDD)", "TestNG", "Robot Framework"]
+    },
+    {
+      "title": "🔌 API Testing",
+      "items": ["Postman"]
+    },
+    {
+      "title": "🚀 Performance Testing",
+      "items": ["Apache JMeter"]
+    },
+    {
+      "title": "📋 Test Management & Bug Tracking",
+      "items": ["Jira", "Trello"]
+    }
+  ],
+  "content": [
+    {
+      "title": "📄 Test Documentation & Reporting",
+      "text": "I prepare clear and structured testing documentation, including:",
+      "items": [
+        "Test plans and test strategies,",
+        "Detailed test cases and scenarios,",
+        "Bug reports with reproducible steps,",
+        "Severity and priority classification,",
+        "Collaboration with development teams until resolution."
+      ],
+      "goal": "My goal is to ensure that issues are not only detected, but understood and resolved efficiently."
+    },
+    {
+      "title": "🧪 Example QA Workflow",
+      "text": "",
+      "items": [
+        "Analyze requirements and user stories",
+        "Design test scenarios and test cases",
+        "Execute manual and automated tests",
+        "Log and track bugs using Jira or Trello",
+        "Verify fixes and perform regression testing",
+        "Validate performance and stability when required"
+      ],
+      "goal": "This workflow ensures quality throughout the development lifecycle."
+    },
+    {
+      "title": "🔗 QA in My Projects",
+      "text": "Quality assurance is integrated into my projects through:",
+      "items": [
+        "Automated UI and API tests,",
+        "Performance testing scenarios,",
+        "Documented bug reports and test cases."
+      ],
+      "goal": "Each project demonstrates how I combine QA practices with development knowledge."
+    },
+    {
+      "title": "🎯 Professional Goal",
+      "text": "My goal is to grow as a QA Engineer / Software Tester with a strong development background, contributing to teams by ensuring quality, reliability, and clear communication.",
+      "items": [],
+      "goal": ""
+    },
+    {
+      "title": "🚀 Beyond Testing",
+      "text": "Thanks to my full‑stack and educational background, I:",
+      "items": [
+        "Understand how applications are built,",
+        "Communicate effectively with developers,",
+        "And help bridge the gap between development and quality assurance."
+      ],
+      "goal": "I believe that high‑quality software is the result of collaboration, structure, and continuous improvement."
+    },
+    {
+      "title": "Explore My Work",
+      "text": "See how I integrate testing and quality assurance into my projects, or get in touch to discuss how I can contribute to your team.",
+      "items": [],
+      "goal": ""
+    }
+  ]
+}

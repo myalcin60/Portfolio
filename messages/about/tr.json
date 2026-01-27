@@ -1,0 +1,83 @@
+{
+  "title": "👋 Merhaba, ben Musa",
+  "text": "Matematik ve Eğitim geçmişine sahip, güçlü bir QA / test bakış açısıyla çalışan Junior Full‑Stack Developer’ım. Yazılım geliştirmeye geçmeden önce matematik öğretmenliği yaptım. Bu deneyim, bugün problemleri ele alış biçimimi şekillendirdi: yapılandırılmış düşünme, mantıksal akıl yürütme ve doğruluk ile açıklığa öncelik verme.",
+  "mindset": {
+    "title": "💻 Geliştirici Bakış Açım",
+      "text": "Bir full‑stack geliştirici olarak uygulamanın tüm yaşam döngüsünde çalışmaktan keyif alıyorum:",
+      "items": [
+        "Temiz ve düzenli mimariler tasarlamak,",
+        "Frontend ve backend özellikleri geliştirmek,",
+        "Ilişkisel veritabanlarına bağlı REST API’ler oluşturmak,",
+        "Ve davranışı testlerle doğrulamak."
+      ],
+      "impacts": [
+        {
+          "title": "Temiz Kod",
+          "description": "Zamana karşı dayanıklı, okunabilir ve sürdürülebilir kod"
+        },
+        {
+          "title": "Açık Mimari",
+          "description": "Anlamlı isimlendirmelerle iyi organize edilmiş bir yapı"
+        },
+        {
+          "title": "Gerçek Dünya Odaklılık",
+          "description": "Teorik örnekler yerine pratik kullanım senaryoları"
+        }
+      ]
+  },
+  "sections": [
+    {
+      "title": "🧠 Matematikten Yazılıma",
+      "description": "Matematik bana şunları öğretti:",
+      "items": [
+        "Karmaşık problemleri daha küçük parçalara ayırmak,",
+        "Adım adım akıl yürütmek,",
+        "Ve sonuçları doğru kabul etmek yerine doğrulamak."
+      ],
+      "additional": "Bu beceriler doğal olarak yazılım geliştirmeye aktarıldı.",
+      "quote": "Kod yazarken sadece ‘Çalışıyor mu?’ diye sormam — aynı zamanda ‘Güvenilir mi, test edilebilir mi, anlaşılır mı?’ diye de sorarım."
+    },
+    {
+      "title": "🧪 Önce Kalite ve Test",
+      "description": "Test, çalışma şeklimin ayrılmaz bir parçasıdır; asla sonradan düşünülen bir adım değildir.",
+      "items": [
+        "Senaryolar ve uç durumlar üzerinden düşünmek,",
+        "Backend ve API testleri yazmak,",
+        "Hata yönetimini ve veri tutarlılığını doğrulamak,",
+        "Gerektiğinde temel performans ve yük testleri uygulamak."
+      ],
+      "additional": "Bu kalite odaklı yaklaşım, ekiplerin güvenle geliştirebileceği sağlam yazılımlar oluşturmamı sağlar.",
+      "quote": ""
+    },
+    {
+      "title": "📘 Eğitim ve Bilgi Paylaşımı",
+      "description": "Eğitmenlik geçmişim sayesinde doğal olarak şu konulara odaklanıyorum:",
+      "items": [
+        "Açık ve anlaşılır dokümantasyon,",
+        "Yapılandırılmış açıklamalar,",
+        "Ve bilgi paylaşımı."
+      ],
+      "additional": "Teknik kavramları basit bir şekilde açıklamaktan keyif alıyorum — ister dokümantasyon, ister proje incelemeleri, ister ekip içi açıklamalar olsun — çünkü iyi yazılım sadece yazılmaz, aynı zamanda anlaşılır.",
+      "quote": ""
+    },
+    {
+      "title": "🎯 Aradığım Pozisyon",
+      "description": "Junior full‑stack geliştirici olarak çalışabileceğim bir pozisyon arıyorum; burada:",
+      "items": [
+        "Profesyonel bir geliştirici olarak büyümek,",
+        "QA odaklı yaklaşımımla katkı sağlamak,",
+        "Ve kod kalitesine, öğrenmeye ve işbirliğine önem veren bir ekiple çalışmak istiyorum."
+      ],
+      "additional": "Geliştirme, test ve açık iletişimin birlikte ilerlediği ortamlar beni özellikle motive ediyor.",
+      "quote": ""
+    }
+  ],
+  "beyond": {
+    "title": "🚀 Kodun Ötesinde",
+    "description": "Geliştirme dışında, matematik ve öğretmenlik geçmişim öğrenme, açıklama ve işbirliği biçimimi şekillendirmeye devam ediyor. Güçlü yazılımların; mantığa, açıklığa ve güvenilirliğe önem veren insanlar tarafından üretildiğine inanıyorum — ve bu değerleri her projeye taşıyorum."
+  },
+  "cta": {
+    "title": "Projelerimi Keşfedin",
+    "description": "Projelerimi inceleyin ve bu prensipleri pratikte nasıl uyguladığımı görün."
+  }
+}

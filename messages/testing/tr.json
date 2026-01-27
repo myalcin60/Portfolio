@@ -1,0 +1,127 @@
+{
+  "title": "Test & Kalite Güvencesi",
+  "description": "Güçlü bir yazılım geliştirme geçmişine sahip bir QA / Yazılım Test Uzmanı olarak çalışıyorum. Amacım, manuel testler, test otomasyonu ve performans testleriyle yazılım kalitesini sağlamak ve geliştiricilerle yakın iş birliği içinde çalışmaktır.",
+  "titleQa": "🧠 QA & Test Yaklaşımı",
+  "text": "Testi yapılandırılmış ve analitik bir süreç olarak ele alıyorum:",
+  "points": [
+    "Gereksinimleri ve kullanıcı beklentilerini anlamak,",
+    "Bunları test senaryolarına ve test vakalarına dönüştürmek,",
+    "Riskleri, uç durumları ve hata noktalarını belirlemek,",
+    "Ve sorunların net şekilde belgelenip takip edilmesini sağlamak."
+  ],
+  "additional": "Geliştirme ve matematik geçmişim sayesinde doğal olarak mantık, tutarlılık ve doğrulama odaklı çalışıyorum.",
+  "titleTypes": "🧪 Gerçekleştirdiğim Test Türleri",
+  "categorieType": [
+    {
+      "title": " 🔹 Manuel Testler",
+      "items": [
+        "Fonksiyonel testler (UI & akışlar)",
+        "Regresyon testleri",
+        "Keşif testleri",
+        "Tarayıcılar arası testler"
+      ]
+    },
+    {
+      "title": "🔹 Test Otomasyonu",
+      "items": [
+        "Web uygulamaları için UI test otomasyonu",
+        "Senaryo tabanlı test otomasyonu",
+        "Regresyon test otomasyonu"
+      ]
+    },
+    {
+      "title": "🔹 API Testleri",
+      "items": [
+        "Fonksiyonel API testleri",
+        "İstek/yanıt doğrulama",
+        "Yetkilendirme ve hata yönetimi kontrolleri"
+      ]
+    },
+    {
+      "title": "🔹 Performans & Yük Testleri",
+      "items": [
+        "Yük ve stres testleri",
+        "Performans darboğazı analizi",
+        "Yanıt süresi ve stabilite doğrulaması"
+      ]
+    }
+  ],
+  "titleTool": "🛠️ Araçlar & Teknolojiler",
+  "categorieTool": [
+    {
+      "title": "🔧 Otomasyon & Fonksiyonel Test",
+      "items": ["Selenium", "Cucumber (BDD)", "TestNG", "Robot Framework"]
+    },
+    {
+      "title": "🔌 API Testleri",
+      "items": ["Postman"]
+    },
+    {
+      "title": "🚀 Performans Testleri",
+      "items": ["Apache JMeter"]
+    },
+    {
+      "title": "📋 Test Yönetimi & Hata Takibi",
+      "items": ["Jira", "Trello"]
+    }
+  ],
+  "content": [
+    {
+      "title": "📄 Test Dokümantasyonu & Raporlama",
+      "text": "Açık ve yapılandırılmış test dokümantasyonları hazırlıyorum:",
+      "items": [
+        "Test planları ve test stratejileri,",
+        "Detaylı test vakaları ve senaryoları,",
+        "Tekrarlanabilir adımlarla hata raporları,",
+        "Onem derecesi ve öncelik sınıflandırması,",
+        "Cözüm sağlanana kadar geliştirme ekipleriyle iş birliği."
+      ],
+      "goal": "Amacım, sorunların yalnızca tespit edilmesini değil, anlaşılmasını ve verimli şekilde çözülmesini sağlamaktır."
+    },
+    {
+      "title": "🧪 Örnek QA İş Akışı",
+      "text": "",
+      "items": [
+        "Gereksinimleri ve user story’leri analiz etmek",
+        "Test senaryoları ve test vakaları tasarlamak",
+        "Manuel ve otomasyon testlerini yürütmek",
+        "Hataları Jira veya Trello üzerinden kaydedip takip etmek",
+        "Düzeltmeleri doğrulamak ve regresyon testi yapmak",
+        "Gerektiğinde performans ve stabiliteyi doğrulamak"
+      ],
+      "goal": "Bu iş akışı, geliştirme yaşam döngüsü boyunca kaliteyi güvence altına alır."
+    },
+    {
+      "title": "🔗 Projelerimde QA",
+      "text": "Projelerimde kalite güvencesi şu yöntemlerle entegre edilmiştir:",
+      "items": [
+        "Otomatik UI ve API testleri,",
+        "Performans test senaryoları,",
+        "Belgelenmiş hata raporları ve test vakaları."
+      ],
+      "goal": "Her proje, QA uygulamalarını geliştirme bilgimle nasıl birleştirdiğimi gösterir."
+    },
+    {
+      "title": "🎯 Profesyonel Hedef",
+      "text": "Amacım, güçlü bir geliştirme geçmişiyle QA Engineer / Yazılım Test Uzmanı olarak gelişmek ve ekiplerin kalite, güvenilirlik ve iletişim süreçlerine katkı sağlamaktır.",
+      "items": [],
+      "goal": ""
+    },
+    {
+      "title": "🚀 Testin Ötesinde",
+      "text": "Full‑stack ve eğitim geçmişim sayesinde:",
+      "items": [
+        "Uygulamaların nasıl geliştirildiğini anlarım,",
+        "Geliştiricilerle etkili iletişim kurarım,",
+        "Ve geliştirme ile kalite güvencesi arasındaki boşluğu kapatmaya yardımcı olurum."
+      ],
+      "goal": "Yüksek kaliteli yazılımın, iş birliği, yapı ve sürekli iyileştirme ile ortaya çıktığına inanıyorum."
+    },
+    {
+      "title": "Çalışmalarımı Keşfedin",
+      "text": "Gerçek projelerde test ve kalite güvencesini nasıl uyguladığımı görün veya ekibinize nasıl katkı sağlayabileceğimi konuşmak için iletişime geçin.",
+      "items": [],
+      "goal": ""
+    }
+  ]
+}

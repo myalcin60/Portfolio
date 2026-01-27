@@ -1,0 +1,52 @@
+ {
+    "title": "Projeler",
+    "text": "Aşağıda eğitimim, stajlarım ve kişisel gelişim sürecimde tamamladığım projelerden bir seçki yer almaktadır. Bu projeler, gerçek kullanım senaryolarına, temiz bir yapıya ve yazılım kalitesine odaklanan güçlü QA / Test geçmişine sahip bir Full‑Stack Geliştirici profilimi yansıtmaktadır.",
+    "projects": [
+      {
+        "title": "1. Edulien – Eğitim Yönetim Platformu",
+        "item1": "Kişisel Proje – DWWM Final Projesi",
+        "status": "✅ Tamamlandı",
+        "titleDes": "Açıklama",
+        "description": "Rol tabanlı erişim kontrolü ile sınıf yönetimi için tasarlanmış bir platform.",
+        "keyFuture": [
+          "Öğretmenler sınıf oluşturabilir ve yönetebilir",
+          "Rol tabanlı erişim (öğretmen / öğrenci)",
+          "E-mail ile öğrenci ekleme",
+          "Ödev takibi"
+        ],
+        "tech": "Teknoloji Seti",
+        "techStack": [
+          "PHP",
+          "HTML",
+          "CSS",
+          "Bootstrap",
+          "MySQL"
+        ],
+        "deployment": "Dağıtım",
+        "platform": "--> Platform: InfinityFree"
+      },
+      {
+        "title": "2. CodeurFreelance – Tanıtım Websitesi",
+        "item1": "Staj Projesi",
+        "status": "✅ Tamamlandı",
+        "titleDes": "Açıklama",
+        "description": "Modern, responsive ve çok dilli arayüze sahip yalnızca Frontend’den oluşan bir tanıtım sitesi. Staj sürecinde ekip olarak geliştirildi.",
+        "key": "Öne Çıkan Özellikler",
+        "keyFuture": [
+          "Çok dilli destek",
+          "Modern UI bileşenleri",
+          "Responsive tasarım"
+        ],
+        "tech": "Teknoloji Seti",
+        "techStack": [
+          "Next.js",
+          "HTML",
+          "CSS",
+          "MUI Material",
+          "i18n"
+        ],
+        "deployment": "",
+        "platform": ""
+      }
+    ]
+  }
