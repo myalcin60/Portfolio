@@ -1,6 +1,6 @@
 'use client'
 import {Box, IconButton, Paper, Typography} from "@mui/material";
-import {Container} from "@mui/system/";
+import {Container} from "@mui/system";
 import {useTranslations} from "next-intl";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
 import GitHubIcon from "@mui/icons-material/GitHub";
