@@ -1,7 +1,7 @@
 import {getTranslations} from "next-intl/server";
 
-export async function seoMetadata(locale:string, pages:string) {
-    const t = await getTranslations( {locale});
+export async function seoMetadata(locale: string, pages: string) {
+    const t = await getTranslations({locale});
     const seo = t.raw('seo');
 
     return {
@@ -9,7 +9,7 @@ export async function seoMetadata(locale:string, pages:string) {
         description: seo.description[pages],
         keywords: seo.skills[pages],
         robots: seo.robots,
-        alternates: { canonical: seo.url },
+        alternates: {canonical: seo.url},
         openGraph: {
             title: seo.title[pages],
             description: seo.description[pages],
@@ -19,9 +19,8 @@ export async function seoMetadata(locale:string, pages:string) {
             type: 'website',
         },
         additionalMetaTags: [
-            {
-                name: 'google-site-verification',
-                content: 'google67d24d0a60421fad'
+            {   name : "google-site-verification",
+                content : "6Sqy_QxP7ZaN7m-PvoDgkvMwaVuySKtcDhhMetqMnyY"
             }
         ],
     };
