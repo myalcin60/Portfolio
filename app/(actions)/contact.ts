@@ -72,7 +72,6 @@ export async function sendContactForm(prevState, formData) {
 
     } catch (err) {
         console.error(err);
-
         return {
             success: false,
             message: null,
