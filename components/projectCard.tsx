@@ -1,6 +1,6 @@
 'use client'
 
-import {Box, Paper, Typography} from "@mui/material";
+import {Box, Link, Paper, Typography} from "@mui/material";
 import {useTranslations} from "next-intl";
 import {useTheme} from "@mui/material/styles";
 import {CustomColors} from "@/theme/theme";
@@ -66,6 +66,7 @@ export default function ProjectCard(){
                         </Box>
                     </Box>
                     <Box  sx={{m:{xs:1, sm:3, md:5}}}>
+                        <Link href={p.link} target={'_blank'} style={{textDecoration: "none", width: '100%'}}>
                         <Image
                             src={p.image}
                             alt={p.title} width={600}  height={400}
@@ -84,6 +85,7 @@ export default function ProjectCard(){
                             }}
 
                         />
+                        </Link>
                     </Box>
 
 

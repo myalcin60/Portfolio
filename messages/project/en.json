@@ -5,6 +5,7 @@
       {
         "title": "1. Edulien – Educational Management Platform",
         "image": "/image/edulien.png",
+        "link": "https://edulien.free.nf/views/pages/index.php",
         "item1": "Personal Project – DWWM Final Project",
         "status": "✅ Completed",
         "titleDes": "Description",
@@ -29,6 +30,7 @@
       {
         "title": "Musa Yalçın – Personal Portfolio",
         "image": "/image/mydevtest.png",
+        "link": "https://mydevtest.netlify.app/",
         "item1": "Personal Project",
         "status": "In Progress",
         "titleDes": "Description",
@@ -54,6 +56,7 @@
       {
         "title": "Erdil Çalış – Law Office",
         "image": "/image/erdilcalis.png",
+        "link": "https://erdilcalis.gt.tc/",
         "item1": "Freelance Project",
         "status": "Deployed",
         "titleDes": "Description",
@@ -76,6 +79,7 @@
       {
         "title": "2. CodeurFreelance – Showcase Website",
         "image": "/image/codeur.png",
+        "link": "",
         "item1": "Internship Project",
         "status": "✅ Completed",
         "titleDes": "Description",

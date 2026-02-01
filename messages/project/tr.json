@@ -5,6 +5,7 @@
       {
         "title": "1. Edulien – Eğitim Yönetim Platformu",
         "image": "/image/edulien.png",
+        "link": "https://edulien.free.nf/views/pages/index.php",
         "item1": "Kişisel Proje – DWWM Final Projesi",
         "status": "✅ Tamamlandı",
         "titleDes": "Açıklama",
@@ -29,6 +30,7 @@
       {
         "title": "Musa Yalçın – Kişisel Portfolyo",
         "image": "/image/mydevtest.png",
+        "link": "https://mydevtest.netlify.app/",
         "item1": "Kişisel Proje",
         "status": "Devam Ediyor",
         "titleDes": "Açıklama",
@@ -54,6 +56,7 @@
       {
         "title": "Erdil Çalış – Hukuk Burosu",
         "image": "/image/erdilcalis.png",
+        "link": "https://erdilcalis.gt.tc/",
         "item1": "Freelance Projesi",
         "status": "Deoloyed",
         "titleDes": "Açıklama",
@@ -76,6 +79,7 @@
       {
         "title": "2. CodeurFreelance – Tanıtım Websitesi",
         "image": "/image/codeur.png",
+        "link": "",
         "item1": "Staj Projesi",
         "status": "✅ Tamamlandı",
         "titleDes": "Açıklama",
