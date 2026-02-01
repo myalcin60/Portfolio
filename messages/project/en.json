@@ -4,6 +4,7 @@
     "projects": [
       {
         "title": "1. Edulien – Educational Management Platform",
+        "image": "/image/edulien.png",
         "item1": "Personal Project – DWWM Final Project",
         "status": "✅ Completed",
         "titleDes": "Description",
@@ -26,7 +27,55 @@
         "platform": "Platform: InfinityFree"
       },
       {
+        "title": "Musa Yalçın – Personal Portfolio",
+        "image": "/image/mydevtest.png",
+        "item1": "Personal Project",
+        "status": "In Progress",
+        "titleDes": "Description",
+        "description": "A modern, fast, and multilingual personal portfolio built with Next.js, MUI Material, and i18n. Designed to showcase my projects, experience, and technical skills through a clean and professional interface.",
+        "key": "Key Features",
+        "keyFuture": [
+          "Multilingual structure (i18n)",
+          "Modern and minimalist UI",
+          "Responsive design",
+          "Fast and SEO‑optimized architecture"
+        ],
+        "tech": "Tech Stack",
+        "techStack": [
+          "Next.js",
+          "React",
+          "MUI Material",
+          "i18n",
+          "CSS Modules"
+        ],
+        "deployment": "Netlify",
+        "platform": "Web"
+      },
+      {
+        "title": "Erdil Çalış – Law Office",
+        "image": "/image/erdilcalis.png",
+        "item1": "Freelance Project",
+        "status": "Deployed",
+        "titleDes": "Description",
+        "description": "A modern, fast, and SEO‑focused corporate website built for Erdil Çalış. It provides a professional digital identity with a minimalist design, strong content management, and a user‑friendly interface.",
+        "key": "Key Features",
+        "keyFuture": [
+          "SEO‑optimized architecture",
+          "Blog content management",
+          "Minimalist and modern UI",
+          "Responsive design"
+        ],
+        "tech": "Tech Stack",
+        "techStack": [
+          "WordPress",
+          "MySQL"
+        ],
+        "deployment": "InfinityFree",
+        "platform": "Web"
+      },
+      {
         "title": "2. CodeurFreelance – Showcase Website",
+        "image": "/image/codeur.png",
         "item1": "Internship Project",
         "status": "✅ Completed",
         "titleDes": "Description",
