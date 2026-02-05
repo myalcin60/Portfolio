@@ -4,6 +4,8 @@ import {Container} from "@mui/system";
 import {useTranslations} from "next-intl";
 import ProjectCard from "@/components/projectCard";
 import JsonLd from "@/components/jsonLd";
+import MyProjectBtn from "@/components/button/myProjectBtn";
+import GetInTouchBtn from "@/components/button/getInTouchBtn";
 
 export default function ProjectClient() {
     const t = useTranslations()
@@ -25,6 +27,9 @@ export default function ProjectClient() {
                 </Box>
                 <Box>
                     <ProjectCard/>
+                </Box>
+                <Box sx={{display:{xs:'block', sm:'flex'}, justifyContent:'space-around', gap:1, mt:{xs:10, md:15}}}>
+                    <GetInTouchBtn/>
                 </Box>
             </Container>
         </Box>
