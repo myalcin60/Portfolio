@@ -15,7 +15,7 @@ const imFellFrenchCanon = IM_Fell_French_Canon({
 export const CustomColors={
     bg_main:"#031927",
     bg_secondary:"#0C5A8D",
-    bg_light:"#dce5fa",
+    bg_light:"#f1f3f8",
     bg_light_secondary:"#9CB4F6",
     orange_dark:"#EEA913",
     orange_light:"#F4C45D",

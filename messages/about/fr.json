@@ -1,6 +1,6 @@
 {
   "title": "👋 Bonjour,",
-  "text": "Je suis un développeur Full-Stack Junior avec une forte sensibilité QA / tests et un parcours en Mathématiques et en Éducation. Avant de me reconvertir dans le développement logiciel, j’ai travaillé comme enseignant de mathématiques. Cette expérience influence encore aujourd’hui ma manière d’aborder les problèmes : pensée structurée, raisonnement logique et priorité à la clarté et à la justesse.",
+  "text": "Je suis un développeur Full-Stack avec une forte sensibilité QA / tests et un parcours en Mathématiques et en Éducation. Avant de me reconvertir dans le développement logiciel, j’ai travaillé comme enseignant de mathématiques. Cette expérience influence encore aujourd’hui ma manière d’aborder les problèmes : pensée structurée, raisonnement logique et priorité à la clarté et à la justesse.",
   "mindset": {
     "title": "💻 Mon état d’esprit de développeur",
       "text": "En tant que développeur full‑stack, j’aime intervenir sur l’ensemble du cycle de vie d’une application :",
@@ -62,7 +62,7 @@
     },
     {
       "title": "🎯 Ce que je recherche",
-      "description": "Je recherche un poste de développeur full‑stack junior où je pourrai :",
+      "description": "Je recherche un poste de développeur full‑stack où je pourrai :",
       "items": [
         "Grandir en tant que développeur professionnel,",
         "Contribuer avec une approche orientée QA,",
