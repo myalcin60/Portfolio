@@ -59,7 +59,9 @@
         "Java",
         "PHP",
         "Node.js",
-        "REST API"
+        "REST API",
+        "Docker",
+        "Linux"
       ],
       "database": "Database",
       "db_skills": [

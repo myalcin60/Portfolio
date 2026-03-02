@@ -58,7 +58,7 @@ export const lightTheme = createTheme({
             color:CustomColors.bg_main,
             fontFamily: `var(${imFellFrenchCanon.style.fontFamily}), Roboto, serif`,
             fontWeight: 400,
-            fontSize: 48,
+            fontSize:"1 rem",
             lineHeight: 1.2,
             '@media (max-width:600px)': {fontSize: '36px'},
         },
