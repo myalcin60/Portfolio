@@ -1,5 +1,5 @@
 'use client'
-import {Box, Button, Typography, Paper} from "@mui/material";
+import {Box, Typography, Paper} from "@mui/material";
 import {useTranslations} from "next-intl";
 import JsonLd from "@/components/jsonLd";
 import {useTheme} from "@mui/material/styles";
@@ -17,6 +17,18 @@ export default function HomeClient() {
         <Box sx={{minHeight: "100vh"}}>
             <JsonLd pageKey={'home'}/>
             <Container maxWidth="lg">
+                <Typography
+                   variant={"h1"}
+                    sx={{
+                        position: "absolute",
+                        left: "-9999px",
+                        top: "auto",
+                        width: "1px",
+                        height: "1px",
+                        overflow: "hidden",
+                    }} >
+                    Musa YALCIN - Développeur Web & Mobile Full-Stack
+                </Typography>
                 {/*hero*/}
                 <Box sx={{
                     display: {xs:"column", md:"flex"},
