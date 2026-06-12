@@ -65,30 +65,48 @@ export default function ProjectCard(){
                             </Box>
                         </Box>
                     </Box>
-                    <Box  sx={{m:{xs:1, sm:3, md:5}}}>
-                        <Link href={p.link} target={'_blank'} style={{textDecoration: "none", width: '100%'}}>
-                        <Image
-                            src={p.image}
-                            alt={p.title} width={600}  height={400}
-                            style={{
-                                width: '100%',height:"auto",
-                                borderRadius: 8,
-                                transition: "transform 0.3s ease, filter 0.3s ease"
+                    <Link href={p.link} target="_blank" style={{ textDecoration: "none", width: "100%" }}>
+                        <Box
+                            sx={{
+                                display: "flex",
+                                flexDirection: { xs: "column", sm: "row" },
+                                gap: 2,
+                                width: "100%"
                             }}
-                            onMouseOver={(e) => {
-                                e.currentTarget.style.transform = "scale(1.05)";
-                                e.currentTarget.style.filter = "brightness(1.1)";
-                            }}
-                            onMouseOut={(e) => {
-                                e.currentTarget.style.transform = "scale(1)";
-                                e.currentTarget.style.filter = "brightness(1)";
-                            }}
+                        >
 
-                        />
-                        </Link>
-                    </Box>
+                            <Box sx={{ width: { xs: "100%", sm: "50%" } }}>
+                                <Image
+                                    src={p.image}
+                                    alt={p.title}
+                                    width={600}
+                                    height={400}
+                                    style={{
+                                        width: "100%",
+                                        height: "auto",
+                                        borderRadius: 8
+                                    }}
+                                />
+                            </Box>
 
+                            {p.image_2 && (
+                                <Box sx={{ width: { xs: "100%", sm: "50%" } }}>
+                                    <Image
+                                        src={p.image_2}
+                                        alt={p.title}
+                                        width={600}
+                                        height={400}
+                                        style={{
+                                            width: "100%",
+                                            height: "auto",
+                                            borderRadius: 8
+                                        }}
+                                    />
+                                </Box>
+                            )}
 
+                        </Box>
+                    </Link>
                 </Paper>
             ))}
 

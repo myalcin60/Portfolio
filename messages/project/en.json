@@ -3,7 +3,36 @@
     "text": "Below is a selection of projects completed during my training, internships, and personal development. These projects reflect my profile as a Full‑Stack Developer with strong QA / Testing expertise, focusing on real use cases, clean structure, and software quality.",
     "projects": [
       {
-        "title": "1. Edulien – Educational Management Platform",
+        "title": "1.AY&EM Edu – Digital Education Platform",
+        "image": "/image/Dijital egitim.png",
+        "image_2": "/image/Dijital_egitim_2.png",
+        "link": "#",
+        "item1": "Personal Project",
+        "status": "🚧 Under Development",
+        "titleDes": "Description",
+        "description": "A digital educational content marketplace designed with role-based access control. The platform provides students with a secure, fast, and convenient way to access educational materials and learning resources.",
+        "keyFuture": [
+          "Authors and educators can upload and sell their PDF books.",
+          "Students and readers can purchase digital books using secure payment methods.",
+          "Students can take purchased exams and practice tests online and view detailed performance analytics.",
+          "Online examination and assessment system.",
+          "Access purchased digital books and educational resources anytime, anywhere."
+        ],
+        "tech": "Technology Stack",
+        "techStack": [
+          "TypeScript",
+          "Next.js",
+          "React",
+          "Node.js + Express",
+          "Material UI (MUI)",
+          "HTML",
+          "CSS",
+          "MySQL"
+        ],
+        "deployment": "Coming Soon"
+      },
+      {
+        "title": "2.Edulien – Educational Management Platform",
         "image": "/image/edulien.png",
         "link": "https://edulien.free.nf/views/pages/index.php",
         "item1": "Personal Project – DWWM Final Project",
@@ -28,7 +57,7 @@
         "platform": "Platform: InfinityFree"
       },
       {
-        "title": "Musa Yalçın – Personal Portfolio",
+        "title": "3.Musa Yalçın – Personal Portfolio",
         "image": "/image/mydevtest.png",
         "link": "https://mydevtest.netlify.app/",
         "item1": "Personal Project",
@@ -54,7 +83,7 @@
         "platform": "Web"
       },
       {
-        "title": "Erdil Çalış – Law Office",
+        "title": "4.Erdil Çalış – Law Office",
         "image": "/image/erdilcalis.png",
         "link": "https://erdilcalis.gt.tc/",
         "item1": "Freelance Project",
@@ -77,7 +106,7 @@
         "platform": "Web"
       },
       {
-        "title": "2. CodeurFreelance – Showcase Website",
+        "title": "5.CodeurFreelance – Showcase Website",
         "image": "/image/codeur.png",
         "link": "",
         "item1": "Internship Project",

@@ -2,7 +2,36 @@
     "title": "Projets",
     "text": "Vous trouverez ci-dessous une sélection de projets réalisés durant ma formation, mes stages et mon développement personnel. Ces projets reflètent mon profil de Développeur Full‑Stack avec une forte expertise en QA / Testing, axé sur des cas d’usage réels, une structure propre et la qualité logicielle.",
     "projects": [
-       { "title": "1. Edulien – Plateforme de Gestion Éducative",
+      {
+        "title": "1.AY&EM Edu – Plateforme d'Éducation Numérique",
+        "image": "/image/Dijital egitim.png",
+        "image_2": "/image/Dijital_egitim_2.png",
+        "link": "#",
+        "item1": "Projet Personnel",
+        "status": "🚧 En cours de développement",
+        "titleDes": "Description",
+        "description": "Une plateforme de vente de ressources pédagogiques numériques conçue avec un système de contrôle d'accès basé sur les rôles. Elle permet également aux étudiants d'accéder facilement, rapidement et en toute sécurité à des contenus éducatifs de qualité.",
+        "keyFuture": [
+          "Les auteurs et les enseignants peuvent téléverser et vendre leurs livres PDF.",
+          "Les étudiants et les lecteurs peuvent acheter des livres numériques via des moyens de paiement sécurisés.",
+          "Les étudiants peuvent passer en ligne les examens et tests qu'ils ont achetés et consulter des analyses détaillées de leurs résultats.",
+          "Système d'examens et d'évaluations en ligne.",
+          "Accès à tout moment et depuis n'importe où aux livres numériques et ressources pédagogiques achetés."
+        ],
+        "tech": "Technologies",
+        "techStack": [
+          "TypeScript",
+          "Next.js",
+          "React",
+          "Node.js + Express",
+          "Material UI (MUI)",
+          "HTML",
+          "CSS",
+          "MySQL"
+        ],
+        "deployment": "Bientôt disponible"
+      },
+       { "title": "2.Edulien – Plateforme de Gestion Éducative",
          "image": "/image/edulien.png",
          "link": "https://edulien.free.nf/views/pages/index.php",
           "item1": "Projet Personnel – Projet Final DWWM",
@@ -27,7 +56,7 @@
           "platform": "--> Plateforme : InfinityFree"
       },
       {
-        "title": "Musa Yalçın – Portfolio Personnel",
+        "title": "3.Musa Yalçın – Portfolio Personnel",
         "image": "/image/mydevtest.png",
         "link": "https://mydevtest.netlify.app/",
         "item1": "Projet Personnel",
@@ -53,7 +82,7 @@
         "platform": "Web"
       },
       {
-        "title": "Erdil Çalış – Cabinet d'Avocats",
+        "title": "4.Erdil Çalış – Cabinet d'Avocats",
         "image": "/image/erdilcalis.png",
         "link": "https://erdilcalis.gt.tc/",
         "item1": "Projet Freelance",
@@ -76,7 +105,7 @@
         "platform": "Web"
       },
       {
-        "title": "2. CodeurFreelance – Site Vitrine",
+        "title": "5.CodeurFreelance – Site Vitrine",
         "image": "/image/codeur.png",
         "link": "",
         "item1": "Projet de Stage",

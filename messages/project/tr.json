@@ -3,7 +3,36 @@
     "text": "Aşağıda eğitimim, stajlarım ve kişisel gelişim sürecimde tamamladığım projelerden bir seçki yer almaktadır. Bu projeler, gerçek kullanım senaryolarına, temiz bir yapıya ve yazılım kalitesine odaklanan güçlü QA / Test geçmişine sahip bir Full‑Stack Geliştirici profilimi yansıtmaktadır.",
     "projects": [
       {
-        "title": "1. Edulien – Eğitim Yönetim Platformu",
+        "title": "1. AY&EM Edu – Dijital Eğitim Platformu",
+        "image": "/image/Dijital egitim.png",
+        "image_2": "/image/Dijital_egitim_2.png",
+        "link": "#",
+        "item1": "Kişisel Proje",
+        "status": "🚧 Geliştirme Aşamasında",
+        "titleDes": "Açıklama",
+        "description": "Rol tabanlı erişim kontrolüne sahip, dijital eğitim materyallerinin satışına yönelik bir platform. Aynı zamanda öğrencilerin eğitim içeriklerine hızlı, güvenli ve kolay bir şekilde erişmesini sağlayan kapsamlı bir eğitim ekosistemi.",
+        "keyFuture": [
+          "Yazarlar ve eğitimciler PDF kitaplarını platforma yükleyebilir ve satışa sunabilir.",
+          "Öğrenciler ve okuyucular dijital kitapları güvenli ödeme yöntemleriyle satın alabilir.",
+          "Öğrenciler satın aldıkları deneme sınavlarını ve testleri çevrim içi olarak çözebilir, detaylı sonuç analizlerini görüntüleyebilir.",
+          "Çevrim içi deneme ve değerlendirme sistemi.",
+          "Satın alınan tüm dijital kitaplara ve eğitim materyallerine her zaman, her yerden erişim imkânı."
+        ],
+        "tech": "Teknoloji Seti",
+        "techStack": [
+          "TypeScript",
+          "Next.js",
+          "React",
+          "Node.js + Express",
+          "Material UI (MUI)",
+          "HTML",
+          "CSS",
+          "MySQL"
+        ],
+        "deployment": "Yakında Yayında"
+      },
+      {
+        "title": "2. Edulien – Eğitim Yönetim Platformu",
         "image": "/image/edulien.png",
         "link": "https://edulien.free.nf/views/pages/index.php",
         "item1": "Kişisel Proje – DWWM Final Projesi",
@@ -28,7 +57,7 @@
         "platform": "--> Platform: InfinityFree"
       },
       {
-        "title": "Musa Yalçın – Kişisel Portfolyo",
+        "title": "3.Musa Yalçın – Kişisel Portfolyo",
         "image": "/image/mydevtest.png",
         "link": "https://mydevtest.netlify.app/",
         "item1": "Kişisel Proje",
@@ -54,7 +83,7 @@
         "platform": "Web"
       },
       {
-        "title": "Erdil Çalış – Hukuk Burosu",
+        "title": "4.Erdil Çalış – Hukuk Burosu",
         "image": "/image/erdilcalis.png",
         "link": "https://erdilcalis.gt.tc/",
         "item1": "Freelance Projesi",
@@ -77,7 +106,7 @@
         "platform": "Web"
       },
       {
-        "title": "2. CodeurFreelance – Tanıtım Websitesi",
+        "title": "5.CodeurFreelance – Tanıtım Websitesi",
         "image": "/image/codeur.png",
         "link": "",
         "item1": "Staj Projesi",
