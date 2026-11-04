@@ -3,7 +3,7 @@
     "text": "Aşağıda eğitimim, stajlarım ve kişisel gelişim sürecimde tamamladığım projelerden bir seçki yer almaktadır. Bu projeler, gerçek kullanım senaryolarına, temiz bir yapıya ve yazılım kalitesine odaklanan güçlü QA / Test geçmişine sahip bir Full‑Stack Geliştirici profilimi yansıtmaktadır.",
     "projects": [
       {
-        "title": "1. AY&EM Edu – Dijital Eğitim Platformu",
+        "title": "AY&EM Edu – Dijital Eğitim Platformu",
         "image": "/image/Dijital egitim.png",
         "image_2": "/image/Dijital_egitim_2.png",
         "link": "#",
@@ -32,7 +32,7 @@
         "deployment": "Yakında Yayında"
       },
       {
-        "title": "2. Edulien – Eğitim Yönetim Platformu",
+        "title": "Edulien – Eğitim Yönetim Platformu",
         "image": "/image/edulien.png",
         "link": "https://edulien.free.nf/views/pages/index.php",
         "item1": "Kişisel Proje – DWWM Final Projesi",
@@ -57,7 +57,37 @@
         "platform": "--> Platform: InfinityFree"
       },
       {
-        "title": "3.Musa Yalçın – Kişisel Portfolyo",
+        "title": "CAREDECO – Tadilat ve Dekorasyon Web Sitesi",
+        "image": "/image/caredeco.png",
+        "link": "https://caredeco.netlify.app/",
+        "item1": "Profesyonel Proje",
+        "status": "✅ Yayında",
+        "titleDes": "Açıklama",
+        "description": "Fayans döşeme, duvar kaplamaları ve iç mekân yenileme alanlarında uzmanlaşmış bir firma için profesyonel bir tanıtım web sitesi tasarlandı ve geliştirildi. Site, firmanın hizmetlerini tanıtmayı, tamamlanan projelerini sergilemeyi ve potansiyel müşterilerin kolayca iletişime geçmesini sağlamayı amaçlamaktadır.",
+        "keyFuture": [
+          "Fayans döşeme, duvar kaplama ve iç mekân yenileme hizmetlerinin tanıtımı.",
+          "Firmanın projelerinin ve tamamlanan çalışmalarının görsel olarak sergilenmesi.",
+          "Web3Forms entegrasyonu ile çevrim içi iletişim formu.",
+          "Bilgisayar, tablet ve mobil cihazlarla uyumlu responsive tasarım.",
+          "Metadata, sitemap.xml ve robots.txt ile SEO optimizasyonu.",
+          "Google Search Console entegrasyonu ile arama motoru indeksleme sürecinin yönetimi."
+        ],
+        "tech": "Teknoloji Seti",
+        "techStack": [
+          "TypeScript",
+          "Next.js",
+          "React",
+          "Material UI (MUI)",
+          "HTML",
+          "CSS",
+          "Web3Forms",
+          "Netlify",
+          "GitHub"
+        ],
+        "deployment": "Yayında"
+      },
+      {
+        "title": "Musa Yalçın – Kişisel Portfolyo",
         "image": "/image/mydevtest.png",
         "link": "https://mydevtest.netlify.app/",
         "item1": "Kişisel Proje",
@@ -83,7 +113,7 @@
         "platform": "Web"
       },
       {
-        "title": "4.Erdil Çalış – Hukuk Burosu",
+        "title": "Erdil Çalış – Hukuk Burosu",
         "image": "/image/erdilcalis.png",
         "link": "https://erdilcalis.gt.tc/",
         "item1": "Freelance Projesi",
@@ -106,7 +136,7 @@
         "platform": "Web"
       },
       {
-        "title": "5.CodeurFreelance – Tanıtım Websitesi",
+        "title": "CodeurFreelance – Tanıtım Websitesi",
         "image": "/image/codeur.png",
         "link": "",
         "item1": "Staj Projesi",

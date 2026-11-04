@@ -3,7 +3,7 @@
     "text": "Below is a selection of projects completed during my training, internships, and personal development. These projects reflect my profile as a Full‑Stack Developer with strong QA / Testing expertise, focusing on real use cases, clean structure, and software quality.",
     "projects": [
       {
-        "title": "1.AY&EM Edu – Digital Education Platform",
+        "title": "AY&EM Edu – Digital Education Platform",
         "image": "/image/Dijital egitim.png",
         "image_2": "/image/Dijital_egitim_2.png",
         "link": "#",
@@ -32,7 +32,7 @@
         "deployment": "Coming Soon"
       },
       {
-        "title": "2.Edulien – Educational Management Platform",
+        "title": "Edulien – Educational Management Platform",
         "image": "/image/edulien.png",
         "link": "https://edulien.free.nf/views/pages/index.php",
         "item1": "Personal Project – DWWM Final Project",
@@ -57,7 +57,37 @@
         "platform": "Platform: InfinityFree"
       },
       {
-        "title": "3.Musa Yalçın – Personal Portfolio",
+        "title": "CAREDECO – Renovation & Interior Design Website",
+        "image": "/image/caredeco.png",
+        "link": "https://caredeco.netlify.app/",
+        "item1": "Professional Project",
+        "status": "✅ Live",
+        "titleDes": "Description",
+        "description": "Designed and developed a professional showcase website for a company specializing in tiling, wall coverings, and interior renovation. The website aims to present the company's services, showcase completed projects, and make it easy for potential customers to get in touch.",
+        "keyFuture": [
+          "Presentation of tiling, wall covering, and interior renovation services.",
+          "Visual showcase of the company's projects and completed work.",
+          "Online contact form integrated with Web3Forms.",
+          "Responsive design optimized for desktop, tablet, and mobile devices.",
+          "SEO optimization with metadata, sitemap.xml, and robots.txt.",
+          "Google Search Console integration to support search engine indexing."
+        ],
+        "tech": "Technology Stack",
+        "techStack": [
+          "TypeScript",
+          "Next.js",
+          "React",
+          "Material UI (MUI)",
+          "HTML",
+          "CSS",
+          "Web3Forms",
+          "Netlify",
+          "GitHub"
+        ],
+        "deployment": "Live"
+      },
+      {
+        "title": "Musa Yalçın – Personal Portfolio",
         "image": "/image/mydevtest.png",
         "link": "https://mydevtest.netlify.app/",
         "item1": "Personal Project",
@@ -83,7 +113,7 @@
         "platform": "Web"
       },
       {
-        "title": "4.Erdil Çalış – Law Office",
+        "title": "Erdil Çalış – Law Office",
         "image": "/image/erdilcalis.png",
         "link": "https://erdilcalis.gt.tc/",
         "item1": "Freelance Project",
@@ -106,7 +136,7 @@
         "platform": "Web"
       },
       {
-        "title": "5.CodeurFreelance – Showcase Website",
+        "title": "CodeurFreelance – Showcase Website",
         "image": "/image/codeur.png",
         "link": "",
         "item1": "Internship Project",
